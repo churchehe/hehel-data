@@ -1,0 +1,6881 @@
+[
+  {
+    "id": "0x5studio-01",
+    "name": "0x5 studio",
+    "url": "https://t.me/%2Bc/2455328834/426/427",
+    "icon": "🧪",
+    "category": "Authors",
+    "description": "0x5 studio | 0X5",
+    "shortName": "0X5",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "0x5-bundle-01",
+        "name": "0x5 Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi / Cyberpunk"
+      }
+    ]
+  },
+  {
+    "id": "1m4too-01",
+    "name": "1m4too",
+    "url": "https://t.me/%2Bc/2499290600/144/145",
+    "icon": "💀",
+    "category": "Authors",
+    "description": "1m4too | 1M4T",
+    "shortName": "1M4T",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "1m4too-bundle-01",
+        "name": "1m4too Monthly Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "3d3do-01",
+    "name": "3D3Do-Studio",
+    "url": "https://t.me/%2Bc/2274038750/186/187",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "3D3Do-Studio | 3D3D",
+    "shortName": "3D3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3d3do-bundle-01",
+        "name": "3D3Do Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "3dartstudio-01",
+    "name": "3D_ART_STUDIO",
+    "url": "https://t.me/%2Bc/2280750674/8067/8068",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "3D ART STUDIO | 3DAR",
+    "shortName": "3DAR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3dart-bundle-01",
+        "name": "3DAR Monthly Set",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "3darqvale-01",
+    "name": "3Darqvale",
+    "url": "https://t.me/%2Bc/2343995924/1504/1505",
+    "icon": "🌙",
+    "category": "Authors",
+    "description": "3Darqvale | 3DRQ",
+    "shortName": "3DRQ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3darqvale-bundle-01",
+        "name": "3DRQ Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "3dmoonn-01",
+    "name": "3Dmoonn",
+    "url": "https://t.me/%2B+-QU_bvM4ueUxM2Iy",
+    "icon": "🌕",
+    "category": "Authors",
+    "description": "3Dmoonn | 3DMN",
+    "shortName": "3DMN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3dmoonn-bundle-01",
+        "name": "3DMN Monthly Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "3dwicked-01",
+    "name": "3DWicked",
+    "url": "https://t.me/%2B+HkfZXmfMWcMxOTNi",
+    "icon": "😈",
+    "category": "Authors",
+    "description": "3DWicked | 3DWD",
+    "shortName": "3DWD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3dwicked-bundle-01",
+        "name": "Wicked Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "3dxm-01",
+    "name": "3DXM Dennis-Xawery-Moore",
+    "url": "https://t.me/%2B+0y7MvHCFSr0xNTRi",
+    "icon": "🦸",
+    "category": "Authors",
+    "description": "Dennis-Xawery-Moore | 3DXM",
+    "shortName": "3DXM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3dxm-bundle-01",
+        "name": "3DXM Heroes Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Superheroes"
+      }
+    ]
+  },
+  {
+    "id": "3dzillabr-01",
+    "name": "3DZillabr",
+    "url": "https://t.me/%2Bc/2499290600/1266/1267",
+    "icon": "🦖",
+    "category": "Authors",
+    "description": "3DZillabr | 3DZB",
+    "shortName": "3DZB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "3dzillabr-bundle-01",
+        "name": "Zillabr Dinosaurs",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Prehistoric"
+      }
+    ]
+  },
+  {
+    "id": "abe3d-01",
+    "name": "ABE3D Leandro Abe Lucas Teixeira Dellas",
+    "url": "https://t.me/%2B+pCoc721o-bo0YzAy",
+    "icon": "🦁",
+    "category": "Authors",
+    "description": "Leandro Abe | ABE3",
+    "shortName": "ABE3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "abe3d-bundle-01",
+        "name": "ABE3D Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "adamchai-01",
+    "name": "adamchai",
+    "url": "https://t.me/%2Bc/2405031173/1171/1172",
+    "icon": "🐉",
+    "category": "Authors",
+    "description": "adamchai | ADCH",
+    "shortName": "ADCH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "adamchai-bundle-01",
+        "name": "Asian Mythology Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Oriental Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "adriancebada-01",
+    "name": "ADRIAN CEBADA SÁNCHEZ",
+    "url": "https://t.me/%2Bc/2436039193/1020/1021",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "Adrian Cebada | ADRC",
+    "shortName": "ADRC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "adriancebada-bundle-01",
+        "name": "ADRC Warriors",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "agfigure-01",
+    "name": "AG.figure",
+    "url": "https://t.me/%2Bc/2280750674/3559/3560",
+    "icon": "🎎",
+    "category": "Authors",
+    "description": "AG.figure | AGFG",
+    "shortName": "AGFG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "agfigure-bundle-01",
+        "name": "Anime Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "aliance-01",
+    "name": "Aliance",
+    "url": "https://t.me/%2Bc/2436039193/6198/6199",
+    "icon": "🤝",
+    "category": "Authors",
+    "description": "Aliance | ALNC",
+    "shortName": "ALNC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "aliance-bundle-01",
+        "name": "Aliance Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "alice3dart-01",
+    "name": "alice3dart",
+    "url": "https://t.me/%2Bc/2280750674/4671/4672",
+    "icon": "🦋",
+    "category": "Authors",
+    "description": "alice3dart | ALIC",
+    "shortName": "ALIC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "alice3dart-bundle-01",
+        "name": "Alice Fantasy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "amaitakahashi-01",
+    "name": "AmaiTakahashi",
+    "url": "https://t.me/%2Bc/2280750674/3687/3688",
+    "icon": "🍭",
+    "category": "Authors",
+    "description": "Amai Takahashi | AMAI",
+    "shortName": "AMAI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "amai-bundle-01",
+        "name": "Sweet Anime Girls",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime / Kawaii"
+      }
+    ]
+  },
+  {
+    "id": "andersonbastos-01",
+    "name": "AndersonBastos",
+    "url": "https://t.me/%2Bc/2343995924/1275/1276",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "Anderson Bastos | ANDB",
+    "shortName": "ANDB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "anderson-bundle-01",
+        "name": "Bastos Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "appendixstl-01",
+    "name": "AppendixSTL",
+    "url": "https://t.me/%2Bc/2464777550/1791/1792",
+    "icon": "📚",
+    "category": "Authors",
+    "description": "AppendixSTL | APPN",
+    "shortName": "APPN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "appendix-bundle-01",
+        "name": "Appendix Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "arkevz-01",
+    "name": "Arkevz",
+    "url": "https://t.me/%2Bc/2499290600/1619/1620",
+    "icon": "🔮",
+    "category": "Authors",
+    "description": "Arkevz | ARKV",
+    "shortName": "ARKV",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "arkevz-bundle-01",
+        "name": "Arkevz Magic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "artyomaoae-01",
+    "name": "Artyom Aoae",
+    "url": "https://t.me/%2Bc/2343995924/1573/1574",
+    "icon": "🖌️",
+    "category": "Authors",
+    "description": "Artyom Aoae | ARTM",
+    "shortName": "ARTM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "artyom-bundle-01",
+        "name": "Artyom Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "atvdigital-01",
+    "name": "ATV Digital Sculptures",
+    "url": "https://t.me/%2Bc/2464777550/2887/2888",
+    "icon": "🚀",
+    "category": "Authors",
+    "description": "ATV Digital | ATV",
+    "shortName": "ATV",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "atv-bundle-01",
+        "name": "ATV Sci-Fi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "augustocastelo-01",
+    "name": "Augusto Castelo",
+    "url": "https://t.me/%2Bc/2343995924/3341/3342",
+    "icon": "🏰",
+    "category": "Authors",
+    "description": "Augusto Castelo | AGCS",
+    "shortName": "AGCS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "augusto-bundle-01",
+        "name": "Castelo Medieval",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Medieval"
+      }
+    ]
+  },
+  {
+    "id": "auriel-01",
+    "name": "Auriel",
+    "url": "https://t.me/%2Bc/2280750674/2776/2777",
+    "icon": "😇",
+    "category": "Authors",
+    "description": "Auriel | AURI",
+    "shortName": "AURI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "auriel-bundle-01",
+        "name": "Angelic Figures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Angels"
+      }
+    ]
+  },
+  {
+    "id": "aveen3d-01",
+    "name": "Aveen3D",
+    "url": "https://t.me/%2Bc/2499290600/259/260",
+    "icon": "🧚",
+    "category": "Authors",
+    "description": "Aveen3D | AVEN",
+    "shortName": "AVEN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "aveen-bundle-01",
+        "name": "Aveen Fairies",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fairies"
+      }
+    ]
+  },
+  {
+    "id": "azaak3d-01",
+    "name": "Azaak3D Azaak",
+    "url": "https://t.me/%2Bc/2464777550/3913/3914",
+    "icon": "🧙‍♂️",
+    "category": "Authors",
+    "description": "Azaak3D | AZAK",
+    "shortName": "AZAK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "azaak-bundle-01",
+        "name": "Azaak Wizards",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "azerama-01",
+    "name": "AZERAMA danielign15",
+    "url": "https://t.me/%2B+l-1ChYi0291mZDNi",
+    "icon": "🔥",
+    "category": "Authors",
+    "description": "AZERAMA | AZER",
+    "shortName": "AZER",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "azerama-bundle-01",
+        "name": "Fire & Demons",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Hell"
+      }
+    ]
+  },
+  {
+    "id": "b3dserk-01",
+    "name": "B3DSERK",
+    "url": "https://t.me/%2B+f02qON7LL2kzM2Fi",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "B3DSERK | B3DK",
+    "shortName": "B3DK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "b3dserk-bundle-01",
+        "name": "Berserk Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "badkstudio-01",
+    "name": "Bad K Studio",
+    "url": "https://t.me/%2Bc/2464777550/2249/2250",
+    "icon": "🤘",
+    "category": "Authors",
+    "description": "Bad K Studio | BADK",
+    "shortName": "BADK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "badk-bundle-01",
+        "name": "Bad K Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Punk / Horror"
+      }
+    ]
+  },
+  {
+    "id": "bastetfigures-01",
+    "name": "Bastet Figures",
+    "url": "https://t.me/%2Bc/2343995924/3485/3486",
+    "icon": "🐈‍⬛",
+    "category": "Authors",
+    "description": "Bastet Figures | BSTF",
+    "shortName": "BSTF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bastet-bundle-01",
+        "name": "Egyptian Gods",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Egypt"
+      }
+    ]
+  },
+  {
+    "id": "basustudios-01",
+    "name": "Basu Studios",
+    "url": "https://t.me/%2Bc/2280750674/2019/2020",
+    "icon": "🪷",
+    "category": "Authors",
+    "description": "Basu Studios | BASU",
+    "shortName": "BASU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "basu-bundle-01",
+        "name": "Indian Mythology",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Indian"
+      }
+    ]
+  },
+  {
+    "id": "beast3d-01",
+    "name": "Beast3d [BE3D]",
+    "url": "https://t.me/%2Bc/2436039193/1934/1935",
+    "icon": "👹",
+    "category": "Authors",
+    "description": "Beast3d | BE3D",
+    "shortName": "BE3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "beast3d-bundle-01",
+        "name": "Beasts & Monsters",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Monsters"
+      }
+    ]
+  },
+  {
+    "id": "beefiguress-01",
+    "name": "Bee Figuress [BEEF]",
+    "url": "https://t.me/%2Bc/2464777550/189/190",
+    "icon": "🐝",
+    "category": "Authors",
+    "description": "Bee Figuress | BEEF",
+    "shortName": "BEEF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bee-bundle-01",
+        "name": "Bee Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "bemazz-01",
+    "name": "Bemazz",
+    "url": "https://t.me/%2Bc/2455328834/1324/1325",
+    "icon": "🌶️",
+    "category": "Authors",
+    "description": "Bemazz | BEMZ",
+    "shortName": "BEMZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bemazz-bundle-01",
+        "name": "Spicy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "bendybuddies-01",
+    "name": "Bendy Buddies",
+    "url": "https://t.me/%2Bc/2464777550/2472/2473",
+    "icon": "🎈",
+    "category": "Authors",
+    "description": "Bendy Buddies | BNDY",
+    "shortName": "BNDY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bendy-bundle-01",
+        "name": "Flexi Toys",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Articulated"
+      }
+    ]
+  },
+  {
+    "id": "bigshow-01",
+    "name": "Big Show",
+    "url": "https://t.me/%2Bc/2274038750/640/641",
+    "icon": "💪",
+    "category": "Authors",
+    "description": "Big Show | BGSH",
+    "shortName": "BGSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bigshow-bundle-01",
+        "name": "Big Muscles Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Muscular"
+      }
+    ]
+  },
+  {
+    "id": "biobreed-01",
+    "name": "Biobreed Studios",
+    "url": "https://t.me/%2Bc/2343995924/160/161",
+    "icon": "🧟",
+    "category": "Authors",
+    "description": "Biobreed Studios | BBRD",
+    "shortName": "BBRD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "biobreed-bundle-01",
+        "name": "Zombies & Mutants",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "blackowl-01",
+    "name": "Black Owl Customs",
+    "url": "https://t.me/%2Bc/2343995924/936/937",
+    "icon": "🦉",
+    "category": "Authors",
+    "description": "Black Owl Customs | BLOC",
+    "shortName": "BLOC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "blackowl-bundle-01",
+        "name": "Owl Customs Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "bluespray-01",
+    "name": "Blue Spray",
+    "url": "https://t.me/%2Bc/2280750674/1959/1960",
+    "icon": "💙",
+    "category": "Authors",
+    "description": "Blue Spray | BLSP",
+    "shortName": "BLSP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bluespray-bundle-01",
+        "name": "Blue Beauties",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "bonato-01",
+    "name": "Bonato",
+    "url": "https://t.me/%2Bc/2499290600/422/423",
+    "icon": "🍖",
+    "category": "Authors",
+    "description": "Bonato | BONT",
+    "shortName": "BONT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bonato-bundle-01",
+        "name": "Thick Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "brianferrara-01",
+    "name": "Brian Ferrara braiten",
+    "url": "https://t.me/%2Bc/2464777550/489/490",
+    "icon": "🧛",
+    "category": "Authors",
+    "description": "Brian Ferrara | BRFR",
+    "shortName": "BRFR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "brianf-bundle-01",
+        "name": "Vampires & Gothic",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Gothic"
+      }
+    ]
+  },
+  {
+    "id": "brianmiroglio-01",
+    "name": "brianmiroglio",
+    "url": "https://t.me/%2Bc/2499290600/153/154",
+    "icon": "🕸️",
+    "category": "Authors",
+    "description": "brianmiroglio | BRMR",
+    "shortName": "BRMR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "brianm-bundle-01",
+        "name": "Spiders & Horror",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "brunoart3dstl-01",
+    "name": "BrunoArt3DSTL Bruno Figueredo",
+    "url": "https://t.me/%2B+58HFW3PcSm5lMjUy",
+    "icon": "🌴",
+    "category": "Authors",
+    "description": "Bruno Figueredo | BRUN",
+    "shortName": "BRUN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "bruno-bundle-01",
+        "name": "Brazilian Beauties",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "ca3dart-01",
+    "name": "CA3DART",
+    "url": "https://t.me/%2B+CHFgcankXFczMGQy",
+    "icon": "🎭",
+    "category": "Authors",
+    "description": "CA3DART | CA3D",
+    "shortName": "CA3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ca3dart-bundle-01",
+        "name": "CA3D Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "caiqart-01",
+    "name": "CaiqArt",
+    "url": "https://t.me/%2Bc/2464777550/161/162",
+    "icon": "🦸‍♀️",
+    "category": "Authors",
+    "description": "CaiqArt | CAIQ",
+    "shortName": "CAIQ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "caiq-bundle-01",
+        "name": "Superheroines",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Superheroes"
+      }
+    ]
+  },
+  {
+    "id": "carlosvp-01",
+    "name": "Carlos VP",
+    "url": "https://t.me/%2Bc/2464777550/2397/2398",
+    "icon": "🌌",
+    "category": "Authors",
+    "description": "Carlos VP | CRVP",
+    "shortName": "CRVP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "carlosvp-bundle-01",
+        "name": "Space & Aliens",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "cgsunset-01",
+    "name": "Cg Sunset",
+    "url": "https://t.me/%2Bc/2274038750/1175/1176",
+    "icon": "🌅",
+    "category": "Authors",
+    "description": "Cg Sunset | CGSN",
+    "shortName": "CGSN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cgsunset-bundle-01",
+        "name": "Sunset Beauties",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "cg3dank-01",
+    "name": "cg3dankMini",
+    "url": "https://t.me/%2Bc/2280750674/2598/2599",
+    "icon": "🧸",
+    "category": "Authors",
+    "description": "cg3dankMini | CG3D",
+    "shortName": "CG3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cg3dank-bundle-01",
+        "name": "Chibi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "cgpyro-01",
+    "name": "cgpyro ARK-AncientRetroCollectibles",
+    "url": "https://t.me/%2Bc/2436039193/1995/1996",
+    "icon": "🦕",
+    "category": "Authors",
+    "description": "cgpyro & ARK | CGPY",
+    "shortName": "CGPY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cgpyro-bundle-01",
+        "name": "Dinosaurs & Retro",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Prehistoric"
+      }
+    ]
+  },
+  {
+    "id": "chagarin-01",
+    "name": "Chagarin",
+    "url": "https://t.me/%2Bc/2455328834/809/810",
+    "icon": "🐯",
+    "category": "Authors",
+    "description": "Chagarin | CHG",
+    "shortName": "CHG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chagarin-bundle-01",
+        "name": "Furry Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Furry"
+      }
+    ]
+  },
+  {
+    "id": "chibistation-01",
+    "name": "Chibi Station [CHIS]",
+    "url": "https://t.me/%2Bc/2280750674/7369/7370",
+    "icon": "🍡",
+    "category": "Authors",
+    "description": "Chibi Station | CHIS",
+    "shortName": "CHIS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chibi-bundle-01",
+        "name": "Super Chibi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 18,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "chibination-01",
+    "name": "ChibiNation",
+    "url": "https://t.me/%2Bc/2499290600/1268/1269",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "ChibiNation | CHBN",
+    "shortName": "CHBN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chibination-bundle-01",
+        "name": "ChibiNation Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 16,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "chsjacint-01",
+    "name": "chsjacint",
+    "url": "https://t.me/%2Bc/2343995924/220/221",
+    "icon": "🦄",
+    "category": "Authors",
+    "description": "chsjacint | CHSJ",
+    "shortName": "CHSJ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chsjacint-bundle-01",
+        "name": "Unicorns & Magic",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "chun-01",
+    "name": "Chun",
+    "url": "https://t.me/%2Bc/2499290600/875/876",
+    "icon": "🥟",
+    "category": "Authors",
+    "description": "Chun | CHUN",
+    "shortName": "CHUN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chun-bundle-01",
+        "name": "Chinese Beauties",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Oriental"
+      }
+    ]
+  },
+  {
+    "id": "cinderwing3d-01",
+    "name": "Cinderwing3D",
+    "url": "https://t.me/%2Bc/2343995924/816/817",
+    "icon": "🐉",
+    "category": "Authors",
+    "description": "Cinderwing3D | CNDW",
+    "shortName": "CNDW",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cinderwing-bundle-01",
+        "name": "Dragons Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Dragons"
+      }
+    ]
+  },
+  {
+    "id": "cmmdigital-01",
+    "name": "CMM-digital-sculpture",
+    "url": "https://t.me/%2Bc/2499290600/347/348",
+    "icon": "🏺",
+    "category": "Authors",
+    "description": "CMM | CMMD",
+    "shortName": "CMMD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cmm-bundle-01",
+        "name": "Classic Sculptures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "cocochen-01",
+    "name": "coco-chen",
+    "url": "https://t.me/%2Bc/2436039193/81/82",
+    "icon": "🐼",
+    "category": "Authors",
+    "description": "coco-chen | COCO",
+    "shortName": "COCO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "coco-bundle-01",
+        "name": "Kawaii Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Kawaii"
+      }
+    ]
+  },
+  {
+    "id": "cortaex3d-01",
+    "name": "cortaex3d",
+    "url": "https://t.me/%2Bc/2274038750/412/413",
+    "icon": "🩸",
+    "category": "Authors",
+    "description": "cortaex3d | CORT",
+    "shortName": "CORT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cortaex-bundle-01",
+        "name": "Gore & Horror",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "crazysculptor-01",
+    "name": "crazysculptor",
+    "url": "https://t.me/%2Bc/2464777550/2114/2115",
+    "icon": "🃏",
+    "category": "Authors",
+    "description": "crazysculptor | CRZS",
+    "shortName": "CRZS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "crazy-bundle-01",
+        "name": "Crazy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Madness"
+      }
+    ]
+  },
+  {
+    "id": "cutepopcrush-01",
+    "name": "CutePopCrush",
+    "url": "https://t.me/%2Bc/2455328834/1791/1792",
+    "icon": "🍬",
+    "category": "Authors",
+    "description": "CutePopCrush | CPC",
+    "shortName": "CPC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "cutepop-bundle-01",
+        "name": "Cute Crush Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "cwstudios-01",
+    "name": "CW Studios Chicken war",
+    "url": "https://t.me/%2Bc/2280750674/2154/2155",
+    "icon": "🐔",
+    "category": "Authors",
+    "description": "Chicken War Studios | CWST",
+    "shortName": "CWST",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "chickenwar-bundle-01",
+        "name": "Chicken War",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 20,
+        "theme": "Meme"
+      }
+    ]
+  },
+  {
+    "id": "d3godesign-01",
+    "name": "D3GO_DESIGN",
+    "url": "https://t.me/%2Bc/2280750674/6521/6522",
+    "icon": "🎮",
+    "category": "Authors",
+    "description": "D3GO_DESIGN | D3GO",
+    "shortName": "D3GO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "d3go-bundle-01",
+        "name": "Gaming Figures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Games"
+      }
+    ]
+  },
+  {
+    "id": "danielomegaxix-01",
+    "name": "danielomegaxix",
+    "url": "https://t.me/%2Bc/2464777550/884/885",
+    "icon": "Ω",
+    "category": "Authors",
+    "description": "danielomegaxix | DNOM",
+    "shortName": "DNOM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "omega-bundle-01",
+        "name": "Omega Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "davidpereira-01",
+    "name": "David Pereira",
+    "url": "https://t.me/%2Bc/2436039193/13275/13276",
+    "icon": "🗽",
+    "category": "Authors",
+    "description": "David Pereira | DVPR",
+    "shortName": "DVPR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "davidp-bundle-01",
+        "name": "Historical Figures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "History"
+      }
+    ]
+  },
+  {
+    "id": "davink-01",
+    "name": "Davink",
+    "url": "https://t.me/%2Bc/2274038750/198/199",
+    "icon": "🧠",
+    "category": "Authors",
+    "description": "Davink | DAVK",
+    "shortName": "DAVK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "davink-bundle-01",
+        "name": "Brainy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "depaula-01",
+    "name": "De Paula DPaula_3d",
+    "url": "https://t.me/%2Bc/2499290600/988/989",
+    "icon": "🌶️",
+    "category": "Authors",
+    "description": "De Paula | DEPL",
+    "shortName": "DEPL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "depaula-bundle-01",
+        "name": "Latina Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "digitaldark-01",
+    "name": "Digital Dark Studio",
+    "url": "https://t.me/%2B+OXCpmtBf1_c1MjI6",
+    "icon": "🖤",
+    "category": "Authors",
+    "description": "Digital Dark Studio | DIDS",
+    "shortName": "DIDS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "digitaldark-bundle-01",
+        "name": "Pin-up & NSFW",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "diklichart-01",
+    "name": "diklichart",
+    "url": "https://t.me/%2Bc/2464777550/1276/1277",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "diklichart | DIKL",
+    "shortName": "DIKL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "diklichart-bundle-01",
+        "name": "Artistic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "dinamuuu3d-01",
+    "name": "dinamuuu3d",
+    "url": "https://t.me/%2B+u_Z7mWnQxf9hM2Iy",
+    "icon": "🦕",
+    "category": "Authors",
+    "description": "dinamuuu3d | DINM",
+    "shortName": "DINM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "dinamuuu-bundle-01",
+        "name": "Dinosaurs Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Prehistoric"
+      }
+    ]
+  },
+  {
+    "id": "do3d-01",
+    "name": "do3d",
+    "url": "https://t.me/%2B+N8HGjjHCNldjZjY6",
+    "icon": "🛡️",
+    "category": "Authors",
+    "description": "do3d | DO3D",
+    "shortName": "DO3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "do3d-bundle-01",
+        "name": "do3d Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "doomlabs-01",
+    "name": "Doom Labs",
+    "url": "https://t.me/%2Bc/2280750674/1923/1924",
+    "icon": "☠️",
+    "category": "Authors",
+    "description": "Doom Labs | DOOM",
+    "shortName": "DOOM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "doom-bundle-01",
+        "name": "Doom Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Demons"
+      }
+    ]
+  },
+  {
+    "id": "doses3d-01",
+    "name": "Doses3d",
+    "url": "https://t.me/%2Bc/2436039193/3383/3384",
+    "icon": "💊",
+    "category": "Authors",
+    "description": "Doses3d | DOSE",
+    "shortName": "DOSE",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "doses-bundle-01",
+        "name": "Dose of Beauty",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "doubledemon-01",
+    "name": "DoubleDemon",
+    "url": "https://t.me/%2Bc/2280750674/3218/3219",
+    "icon": "👿",
+    "category": "Authors",
+    "description": "DoubleDemon | DBLD",
+    "shortName": "DBLD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "doubledemon-bundle-01",
+        "name": "Double Demons",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Demons"
+      }
+    ]
+  },
+  {
+    "id": "doublevertex-01",
+    "name": "DoubleVertex",
+    "url": "https://t.me/%2Bc/2274038750/597/598",
+    "icon": "🔺",
+    "category": "Authors",
+    "description": "DoubleVertex | DBLV",
+    "shortName": "DBLV",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "doublevertex-bundle-01",
+        "name": "Vertex Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "dragoncollector-01",
+    "name": "DRAGON COLLECTOR jackie-3d",
+    "url": "https://t.me/%2Bc/2343995924/1326/1327",
+    "icon": "🐲",
+    "category": "Authors",
+    "description": "Dragon Collector | DRGC",
+    "shortName": "DRGC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "dragoncol-bundle-01",
+        "name": "Dragons Collection",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Dragons"
+      }
+    ]
+  },
+  {
+    "id": "dtrstudio-01",
+    "name": "DTR Studio 3D",
+    "url": "https://t.me/%2Bc/2343995924/814/815",
+    "icon": "🛠️",
+    "category": "Authors",
+    "description": "DTR Studio | DTRS",
+    "shortName": "DTRS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "dtr-bundle-01",
+        "name": "DTR Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "dualcollectibles-01",
+    "name": "Dual Collectibles",
+    "url": "https://t.me/%2Bc/2280750674/7346/7347",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "Dual Collectibles | DULC",
+    "shortName": "DULC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "dualcol-bundle-01",
+        "name": "Dual Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "dualcollectible2-01",
+    "name": "DualCollectible",
+    "url": "https://t.me/%2Bc/2280750674/8971/8972",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "DualCollectible | DULC2",
+    "shortName": "DULC2",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "dualcol2-bundle-01",
+        "name": "Dual Pack 2",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "e995y-01",
+    "name": "e995y",
+    "url": "https://t.me/%2Bc/2436039193/5172/5173",
+    "icon": "🤖",
+    "category": "Authors",
+    "description": "e995y | E995",
+    "shortName": "E995",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "e995y-bundle-01",
+        "name": "Robots & Mecha",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mecha"
+      }
+    ]
+  },
+  {
+    "id": "eastseamonster-01",
+    "name": "East Sea Monster",
+    "url": "https://t.me/%2B+P-sCXPqYhxUyNWMy",
+    "icon": "🐙",
+    "category": "Authors",
+    "description": "East Sea Monster | ESM",
+    "shortName": "ESM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "esm-bundle-01",
+        "name": "Sea Monsters",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Sea Mythology"
+      }
+    ]
+  },
+  {
+    "id": "eastman-01",
+    "name": "Eastman",
+    "url": "https://t.me/%2Bc/2405031173/1410/1411",
+    "icon": "🎸",
+    "category": "Authors",
+    "description": "Eastman | EAST",
+    "shortName": "EAST",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "eastman-bundle-01",
+        "name": "Rock & Roll Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Music"
+      }
+    ]
+  },
+  {
+    "id": "eddyworkshop-01",
+    "name": "EddyWorkshop",
+    "url": "https://t.me/%2Bc/2464777550/1027/1028",
+    "icon": "🔧",
+    "category": "Authors",
+    "description": "EddyWorkshop | EDDY",
+    "shortName": "EDDY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "eddy-bundle-01",
+        "name": "Workshop Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "edwardj-01",
+    "name": "Edward.J [EDWJ]",
+    "url": "https://t.me/%2Bc/2464777550/4189/4190",
+    "icon": "🧟‍♂️",
+    "category": "Authors",
+    "description": "Edward.J | EDWJ",
+    "shortName": "EDWJ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "edwardj-bundle-01",
+        "name": "Zombie Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "eggmastudios-01",
+    "name": "EggmaStudios [EGG]",
+    "url": "https://t.me/%2Bc/2280750674/6257/6258",
+    "icon": "🥚",
+    "category": "Authors",
+    "description": "EggmaStudios | EGG",
+    "shortName": "EGG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "eggma-bundle-01",
+        "name": "Egg Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "emanuelsko-01",
+    "name": "emanuelsko",
+    "url": "https://t.me/%2Bc/2436039193/4499/4500",
+    "icon": "🌺",
+    "category": "Authors",
+    "description": "emanuelsko | EMAN",
+    "shortName": "EMAN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "emanuel-bundle-01",
+        "name": "Tropical Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "emilianoluna3d-01",
+    "name": "EMILIANOLUNA3D",
+    "url": "https://t.me/%2Bc/2464777550/151/152",
+    "icon": "🌕",
+    "category": "Authors",
+    "description": "Emiliano Luna | EMLN",
+    "shortName": "EMLN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "emiliano-bundle-01",
+        "name": "Moon Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "empirefigures-01",
+    "name": "EmpireFigures",
+    "url": "https://t.me/%2Bc/2405031173/926/927",
+    "icon": "👑",
+    "category": "Authors",
+    "description": "EmpireFigures | EMPF",
+    "shortName": "EMPF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "empire-bundle-01",
+        "name": "Imperial Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Empire"
+      }
+    ]
+  },
+  {
+    "id": "endlessmenace-01",
+    "name": "endlessmenace",
+    "url": "https://t.me/%2Bc/2405031173/805/806",
+    "icon": "🦹",
+    "category": "Authors",
+    "description": "endlessmenace | ENDM",
+    "shortName": "ENDM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "endless-bundle-01",
+        "name": "Villains Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Villains"
+      }
+    ]
+  },
+  {
+    "id": "enzocz-01",
+    "name": "Enzo Cz EnzoCz",
+    "url": "https://t.me/%2Bc/2280750674/6965/6966",
+    "icon": "🦖",
+    "category": "Authors",
+    "description": "Enzo Cz | ENZO",
+    "shortName": "ENZO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "enzo-bundle-01",
+        "name": "Dino Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Prehistoric"
+      }
+    ]
+  },
+  {
+    "id": "epicprop-01",
+    "name": "epicprop",
+    "url": "https://t.me/%2Bc/2280750674/1403/1404",
+    "icon": "🏆",
+    "category": "Authors",
+    "description": "epicprop | EPCR",
+    "shortName": "EPCR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "epicprop-bundle-01",
+        "name": "Epic Props",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Props"
+      }
+    ]
+  },
+  {
+    "id": "exclusive3dprint-01",
+    "name": "exclusive3Dprint",
+    "url": "https://t.me/%2B+hlRUWoaayJY2NjQy",
+    "icon": "💎",
+    "category": "Authors",
+    "description": "exclusive3Dprint | EXCL",
+    "shortName": "EXCL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "exclusive-bundle-01",
+        "name": "Exclusive Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Premium"
+      }
+    ]
+  },
+  {
+    "id": "exequieldevoto-01",
+    "name": "Exequiel Devoto",
+    "url": "https://t.me/%2Bc/2464777550/387/388",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Exequiel Devoto | EXDV",
+    "shortName": "EXDV",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "exequiel-bundle-01",
+        "name": "Art Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "fabiocaetanosales-01",
+    "name": "fabiocaetanosales",
+    "url": "https://t.me/%2Bc/2405031173/893/894",
+    "icon": "🌴",
+    "category": "Authors",
+    "description": "Fabio Caetano | FBCS",
+    "shortName": "FBCS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fabio-bundle-01",
+        "name": "Brazilian Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "failedcaptain-01",
+    "name": "FailedCaptain",
+    "url": "https://t.me/%2Bc/2343995924/1622/1623",
+    "icon": "🏴‍☠️",
+    "category": "Authors",
+    "description": "FailedCaptain | FLDC",
+    "shortName": "FLDC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "failedcaptain-bundle-01",
+        "name": "Pirates Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Pirates"
+      }
+    ]
+  },
+  {
+    "id": "fandomcollectibles-01",
+    "name": "Fandom Collectibles",
+    "url": "https://t.me/%2Bc/2280750674/3751/3752",
+    "icon": "🎭",
+    "category": "Authors",
+    "description": "Fandom Collectibles | FNDM",
+    "shortName": "FNDM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fandom-bundle-01",
+        "name": "Fandom Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Pop Culture"
+      }
+    ]
+  },
+  {
+    "id": "fantompro-01",
+    "name": "fantompro",
+    "url": "https://t.me/%2Bc/2274038750/1161/1162",
+    "icon": "👻",
+    "category": "Authors",
+    "description": "fantompro | FANT",
+    "shortName": "FANT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fantom-bundle-01",
+        "name": "Ghost Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Horror"
+      }
+    ]
+},
+ {
+    "id": "felipecorrearibeiro-01",
+    "name": "Felipe Correa Ribeiro",
+    "url": "https://t.me/%2Bc/2464777550/2257/2258",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Felipe Correa Ribeiro | FLPC",
+    "shortName": "FLPC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "flpc-bundle-01",
+        "name": "Felipe Correa Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "fian94-01",
+    "name": "fian 94 muschiorosso",
+    "url": "https://t.me/%2Bc/2464777550/4/5",
+    "icon": "🌹",
+    "category": "Authors",
+    "description": "fian94 muschiorosso | FIAN",
+    "shortName": "FIAN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fian-bundle-01",
+        "name": "Muschiorosso Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "fidesfigure-01",
+    "name": "Fides Figure Fides Studio [FFFS]",
+    "url": "https://t.me/%2Bc/2274038750/477/478",
+    "icon": "🛡️",
+    "category": "Authors",
+    "description": "Fides Studio | FFFS",
+    "shortName": "FFFS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fides-bundle-01",
+        "name": "Fides Monthly Release",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "francisquez-01",
+    "name": "francisquez",
+    "url": "https://t.me/%2Bc/2436039193/11545/11546",
+    "icon": "🦸‍♀️",
+    "category": "Authors",
+    "description": "francisquez | FRNC",
+    "shortName": "FRNC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "francis-bundle-01",
+        "name": "Francisquez Heroines",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Superheroines"
+      }
+    ]
+  },
+  {
+    "id": "freyasfantasys-01",
+    "name": "Freyas Fantasys [FREF]",
+    "url": "https://t.me/%2Bc/2464777550/2891/2892",
+    "icon": "🪄",
+    "category": "Authors",
+    "description": "Freya's Fantasys | FREF",
+    "shortName": "FREF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "freya-bundle-01",
+        "name": "Freya's Fantasy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Norse Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "frintedpucker-01",
+    "name": "frintedpucker",
+    "url": "https://t.me/%2Bc/2280750674/4018/4019",
+    "icon": "😘",
+    "category": "Authors",
+    "description": "frintedpucker | FRIN",
+    "shortName": "FRIN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "frinted-bundle-01",
+        "name": "Cute & Sexy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "fumakestudio-01",
+    "name": "FuMakeStudio",
+    "url": "https://t.me/%2Bc/2343995924/3376/3377",
+    "icon": "🧧",
+    "category": "Authors",
+    "description": "FuMakeStudio | FUMK",
+    "shortName": "FUMK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "fumake-bundle-01",
+        "name": "Chinese Style Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Oriental"
+      }
+    ]
+  },
+  {
+    "id": "gabriel3dh-01",
+    "name": "gabriel3dh",
+    "url": "https://t.me/%2Bc/2436039193/211/212",
+    "icon": "🦸",
+    "category": "Authors",
+    "description": "gabriel3dh | GBR3",
+    "shortName": "GBR3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gabriel3dh-bundle-01",
+        "name": "Heroes & Villains",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Superheroes"
+      }
+    ]
+  },
+  {
+    "id": "gabrielsouto-01",
+    "name": "gabrielsouto Gabriel Augusto Palmeira Souto",
+    "url": "https://t.me/%2Bc/2499290600/443/444",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "Gabriel Souto | GBSO",
+    "shortName": "GBSO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gbsouto-bundle-01",
+        "name": "Souto Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "gambody-01",
+    "name": "Gambody",
+    "url": "https://t.me/%2B+6tpZsLPsSOIwNDc6",
+    "icon": "🤖",
+    "category": "Authors",
+    "description": "Gambody Premium | GAMB",
+    "shortName": "GAMB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gambody-bundle-01",
+        "name": "Gambody Premium Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Sci-Fi / Movies"
+      }
+    ]
+  },
+  {
+    "id": "gatsustudios-01",
+    "name": "Gatsu Studios",
+    "url": "https://t.me/%2Bc/2274038750/1678/1679",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "Gatsu Studios | GATS",
+    "shortName": "GATS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gatsu-bundle-01",
+        "name": "Berserk Style Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "gerom-01",
+    "name": "Gerom",
+    "url": "https://t.me/%2Bc/2499290600/1315/1316",
+    "icon": "🧙‍♂️",
+    "category": "Authors",
+    "description": "Gerom | GERM",
+    "shortName": "GERM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gerom-bundle-01",
+        "name": "Gerom Wizards",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "getchagacha-01",
+    "name": "GetchaGacha",
+    "url": "https://t.me/%2Bc/2280750674/6644/6645",
+    "icon": "🎰",
+    "category": "Authors",
+    "description": "GetchaGacha | GTCH",
+    "shortName": "GTCH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gacha-bundle-01",
+        "name": "Gacha Chibi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 20,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "gibleart-01",
+    "name": "Gible Art",
+    "url": "https://t.me/%2Bc/2274038750/1136/1137",
+    "icon": "🐉",
+    "category": "Authors",
+    "description": "Gible Art | GIBL",
+    "shortName": "GIBL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gible-bundle-01",
+        "name": "Pokémon Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Creatures"
+      }
+    ]
+  },
+  {
+    "id": "gmeyer3d-01",
+    "name": "gmeyer3d Gabriel Meyer [GM3D]",
+    "url": "https://t.me/%2Bc/2405031173/2/3",
+    "icon": "🌌",
+    "category": "Authors",
+    "description": "Gabriel Meyer | GM3D",
+    "shortName": "GM3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gmeyer-bundle-01",
+        "name": "Cosmic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "go3dfigures-01",
+    "name": "Go3dFigures",
+    "url": "https://t.me/%2Bc/2280750674/2427/2428",
+    "icon": "🏃‍♂️",
+    "category": "Authors",
+    "description": "Go3dFigures | GO3D",
+    "shortName": "GO3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "go3d-bundle-01",
+        "name": "Dynamic Poses",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Action"
+      }
+    ]
+  },
+  {
+    "id": "gom3d-01",
+    "name": "Gom3D",
+    "url": "https://t.me/%2Bc/2280750674/3060/3061",
+    "icon": "🧸",
+    "category": "Authors",
+    "description": "Gom3D | GOM3",
+    "shortName": "GOM3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gom3d-bundle-01",
+        "name": "Cute Mini Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "gomerarts-01",
+    "name": "GomerArts",
+    "url": "https://t.me/%2Bc/2274038750/840/841",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "GomerArts | GOMR",
+    "shortName": "GOMR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gomer-bundle-01",
+        "name": "Artistic Figures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "gos3dart-01",
+    "name": "Gos3dart",
+    "url": "https://t.me/%2Bc/2499290600/774/775",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "Gos3dart | GOS3",
+    "shortName": "GOS3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gos-bundle-01",
+        "name": "Warriors Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "goyo-01",
+    "name": "GoYo works",
+    "url": "https://t.me/%2Bc/2436039193/10012/10013",
+    "icon": "🎎",
+    "category": "Authors",
+    "description": "GoYo works | GOYO",
+    "shortName": "GOYO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "goyo-bundle-01",
+        "name": "Anime Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "gregoriuslaksono-01",
+    "name": "gregoriuslaksono",
+    "url": "https://t.me/%2B+oqHekj7PTg5hZjUy",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "Gregorius Laksono | GAKS",
+    "shortName": "GAKS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "gregorius-bundle-01",
+        "name": "Indonesian Mythology",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mythology"
+      }
+    ]
+  },
+  {
+    "id": "h3llcreator-01",
+    "name": "h3ll [H3LL] h3LLcreator",
+    "url": "https://t.me/%2B+T3W2qptLtYRhODk6",
+    "icon": "😈",
+    "category": "Authors",
+    "description": "h3LLcreator | H3LL",
+    "shortName": "H3LL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "h3ll-bundle-01",
+        "name": "Hell Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Demons / NSFW"
+      }
+    ]
+  },
+  {
+    "id": "haikumodels-01",
+    "name": "HaikuModels",
+    "url": "https://t.me/%2Bc/2343995924/150/151",
+    "icon": "🎋",
+    "category": "Authors",
+    "description": "HaikuModels | HAIK",
+    "shortName": "HAIK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "haiku-bundle-01",
+        "name": "Zen & Samurai",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Samurai"
+      }
+    ]
+  },
+  {
+    "id": "hearun54-01",
+    "name": "hearun54",
+    "url": "https://t.me/%2Bc/2280750674/6712/6713",
+    "icon": "🐰",
+    "category": "Authors",
+    "description": "hearun54 | HRUN",
+    "shortName": "HRUN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hearun-bundle-01",
+        "name": "Bunny Girls",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Bunny"
+      }
+    ]
+  },
+  {
+    "id": "hellpop-01",
+    "name": "HELLPOP Collectibles by Mauro Misiewicz [HELP]",
+    "url": "https://t.me/%2Bc/2280750674/3335/3336",
+    "icon": "💥",
+    "category": "Authors",
+    "description": "Mauro Misiewicz | HELP",
+    "shortName": "HELP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hellpop-bundle-01",
+        "name": "Hellpop Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Pop Culture"
+      }
+    ]
+  },
+  {
+    "id": "henryfabian-01",
+    "name": "Henry Fabian Varon Cortes",
+    "url": "https://t.me/%2Bc/2464777550/1612/1613",
+    "icon": "🌮",
+    "category": "Authors",
+    "description": "Henry Fabian | HFVC",
+    "shortName": "HFVC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "henry-bundle-01",
+        "name": "Latino Fantasy",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "hensel-01",
+    "name": "Hensel",
+    "url": "https://t.me/%2Bc/2343995924/3824/3825",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "Hensel | HNSL",
+    "shortName": "HNSL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hensel-bundle-01",
+        "name": "Fox Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Kitsune"
+      }
+    ]
+  },
+  {
+    "id": "heraldo-01",
+    "name": "Heraldo Sculpts [HERD]",
+    "url": "https://t.me/%2Bc/2280750674/2458/2459",
+    "icon": "🏹",
+    "category": "Authors",
+    "description": "Heraldo Sculpts | HERD",
+    "shortName": "HERD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "heraldo-bundle-01",
+        "name": "Archer Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "hogwart-01",
+    "name": "hogwart",
+    "url": "https://t.me/%2Bc/2464777550/1886/1887",
+    "icon": "🪄",
+    "category": "Authors",
+    "description": "hogwart | HGWT",
+    "shortName": "HGWT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hogwart-bundle-01",
+        "name": "Wizarding World",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Harry Potter"
+      }
+    ]
+  },
+  {
+    "id": "horizonlite-01",
+    "name": "Horizon Lite [HORL]",
+    "url": "https://t.me/%2Bc/2436039193/12944/12945",
+    "icon": "🌅",
+    "category": "Authors",
+    "description": "Horizon Lite | HORL",
+    "shortName": "HORL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "horizon-bundle-01",
+        "name": "Horizon Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "htbros-01",
+    "name": "HTBROS",
+    "url": "https://t.me/%2Bc/2405031173/1207/1208",
+    "icon": "👬",
+    "category": "Authors",
+    "description": "HTBROS | HTBR",
+    "shortName": "HTBR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "htbros-bundle-01",
+        "name": "Brothers Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "huper3danime-01",
+    "name": "Huper3dAnime",
+    "url": "https://t.me/%2Bc/2343995924/3334/3335",
+    "icon": "💮",
+    "category": "Authors",
+    "description": "Huper3dAnime | HUPR",
+    "shortName": "HUPR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "huper-bundle-01",
+        "name": "Anime Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "hybris-01",
+    "name": "Hybris Studio Alexis Arroyo M.",
+    "url": "https://t.me/%2B+jC10eNhBrBxmZWIy",
+    "icon": "🦅",
+    "category": "Authors",
+    "description": "Alexis Arroyo | HYBS",
+    "shortName": "HYBS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hybris-bundle-01",
+        "name": "Mythical Beasts",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Mythology"
+      }
+    ]
+  },
+  {
+    "id": "hzhtoya-01",
+    "name": "Hzhtoya",
+    "url": "https://t.me/%2Bc/2280750674/9383/9384",
+    "icon": "🧸",
+    "category": "Authors",
+    "description": "Hzhtoya | HZHT",
+    "shortName": "HZHT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "hzhtoya-bundle-01",
+        "name": "Plushie Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "iimanityfigures-01",
+    "name": "IImanItyFigures",
+    "url": "https://t.me/%2Bc/2274038750/658/659",
+    "icon": "♟️",
+    "category": "Authors",
+    "description": "IImanItyFigures | IIMN",
+    "shortName": "IIMN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "iimanity-bundle-01",
+        "name": "No Game No Life Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "ilustrartuel-01",
+    "name": "ilustrartuel",
+    "url": "https://t.me/%2Bc/2499290600/92/93",
+    "icon": "✏️",
+    "category": "Authors",
+    "description": "ilustrartuel | ILSR",
+    "shortName": "ILSR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ilustrar-bundle-01",
+        "name": "Illustrated Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "immfigures-01",
+    "name": "IMM Figures [IMMF]",
+    "url": "https://t.me/%2Bc/2274038750/984/985",
+    "icon": "🗽",
+    "category": "Authors",
+    "description": "IMM Figures | IMMF",
+    "shortName": "IMMF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "imm-bundle-01",
+        "name": "American Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "inarifigure-01",
+    "name": "Inari Figure",
+    "url": "https://t.me/%2Bc/2274038750/1350/1351",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "Inari Figure | INRF",
+    "shortName": "INRF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "inari-bundle-01",
+        "name": "Kitsune Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Kitsune"
+      }
+    ]
+  },
+  {
+    "id": "inari3d-01",
+    "name": "inari3D",
+    "url": "https://t.me/%2Bc/2280750674/6607/6608",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "inari3D | INAR",
+    "shortName": "INAR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "inari3d-bundle-01",
+        "name": "Fox Spirits",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Kitsune"
+      }
+    ]
+  },
+  {
+    "id": "indefference-01",
+    "name": "Indefference",
+    "url": "https://t.me/%2Bc/2274038750/1302/1303",
+    "icon": "😐",
+    "category": "Authors",
+    "description": "Indefference | INDF",
+    "shortName": "INDF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "indef-bundle-01",
+        "name": "Neutral Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "inkman-01",
+    "name": "inkman",
+    "url": "https://t.me/%2Bc/2274038750/167/168",
+    "icon": "🖋️",
+    "category": "Authors",
+    "description": "inkman | INKM",
+    "shortName": "INKM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "inkman-bundle-01",
+        "name": "Inked Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Tattoo / Dark"
+      }
+    ]
+  },
+  {
+    "id": "ishicrzy-01",
+    "name": "Ishi_crzy",
+    "url": "https://t.me/%2Bc/2280750674/6840/6841",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "Ishi_crzy | ISHI",
+    "shortName": "ISHI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ishi-bundle-01",
+        "name": "Sakura Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "jayp3d-01",
+    "name": "jayp3d",
+    "url": "https://t.me/%2Bc/2436039193/3666/3667",
+    "icon": "🦸‍♂️",
+    "category": "Authors",
+    "description": "jayp3d | JAYP",
+    "shortName": "JAYP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "jayp-bundle-01",
+        "name": "Superheroes Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Superheroes"
+      }
+    ]
+  },
+  {
+    "id": "jedirayswill-01",
+    "name": "jedirayswill",
+    "url": "https://t.me/%2Bc/2343995924/895/896",
+    "icon": "⚡",
+    "category": "Authors",
+    "description": "jedirayswill | JDRY",
+    "shortName": "JDRY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "jedi-bundle-01",
+        "name": "Star Wars Inspired",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "jigglystix-01",
+    "name": "Jigglystix",
+    "url": "https://t.me/%2B+l8LWLgwnM9Q3MzZi",
+    "icon": "🍑",
+    "category": "Authors",
+    "description": "Jigglystix | JIGG",
+    "shortName": "JIGG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "jiggly-bundle-01",
+        "name": "Jiggly Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "joearts-01",
+    "name": "Joe Arts [JOES]",
+    "url": "https://t.me/%2Bc/2464777550/768/769",
+    "icon": "🃏",
+    "category": "Authors",
+    "description": "Joe Arts | JOES",
+    "shortName": "JOES",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "joe-bundle-01",
+        "name": "Joker Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Villains"
+      }
+    ]
+  },
+  {
+    "id": "johnneken-01",
+    "name": "JohnneKen",
+    "url": "https://t.me/%2Bc/2499290600/946/947",
+    "icon": "🎸",
+    "category": "Authors",
+    "description": "JohnneKen | JHNK",
+    "shortName": "JHNK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "johnne-bundle-01",
+        "name": "Rock Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Music"
+      }
+    ]
+  },
+  {
+    "id": "jp3dstudio-01",
+    "name": "jp3dstudio",
+    "url": "https://t.me/%2Bc/2343995924/1313/1314",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "jp3dstudio | JP3D",
+    "shortName": "JP3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "jp3d-bundle-01",
+        "name": "Japanese Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "julles-01",
+    "name": "Julles Julles Modelado [JULL]",
+    "url": "https://t.me/%2Bc/2280750674/4395/4396",
+    "icon": "💃",
+    "category": "Authors",
+    "description": "Julles Modelado | JULL",
+    "shortName": "JULL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "julles-bundle-01",
+        "name": "Dance Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "kabukifigures-01",
+    "name": "Kabuki Figures",
+    "url": "https://t.me/%2Bc/2464777550/4213/4214",
+    "icon": "🎭",
+    "category": "Authors",
+    "description": "Kabuki Figures | KBKF",
+    "shortName": "KBKF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kabuki-bundle-01",
+        "name": "Kabuki Theatre",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Japanese Theatre"
+      }
+    ]
+  },
+  {
+    "id": "kaerustudios-01",
+    "name": "Kaeru Studios",
+    "url": "https://t.me/%2Bc/2280750674/3238/3239",
+    "icon": "🐸",
+    "category": "Authors",
+    "description": "Kaeru Studios | KAER",
+    "shortName": "KAER",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kaeru-bundle-01",
+        "name": "Frog Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cute Creatures"
+      }
+    ]
+  },
+  {
+    "id": "kaidan-01",
+    "name": "kaidan [KAID]",
+    "url": "https://t.me/%2Bc/2436039193/1351/1352",
+    "icon": "👻",
+    "category": "Authors",
+    "description": "kaidan | KAID",
+    "shortName": "KAID",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kaidan-bundle-01",
+        "name": "Japanese Horror",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "kaladrash-01",
+    "name": "KalaDrash",
+    "url": "https://t.me/%2Bc/2343995924/1263/1264",
+    "icon": "🐉",
+    "category": "Authors",
+    "description": "KalaDrash | KLDR",
+    "shortName": "KLDR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kala-bundle-01",
+        "name": "Dragon Riders",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Dragons"
+      }
+    ]
+  },
+  {
+    "id": "kcstudio-01",
+    "name": "KcStudio [KCS]",
+    "url": "https://t.me/%2Bc/2280750674/2074/2075",
+    "icon": "🌺",
+    "category": "Authors",
+    "description": "KcStudio | KCS",
+    "shortName": "KCS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kcstudio-bundle-01",
+        "name": "Tropical Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "kibastudio-01",
+    "name": "Kiba Studio",
+    "url": "https://t.me/%2Bc/2436039193/769/770",
+    "icon": "🐺",
+    "category": "Authors",
+    "description": "Kiba Studio | KIBA",
+    "shortName": "KIBA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kiba-bundle-01",
+        "name": "Wolf Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Furry"
+      }
+    ]
+  },
+  {
+    "id": "kksculpt-01",
+    "name": "KKSculpt",
+    "url": "https://t.me/%2Bc/2274038750/1440/1441",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "KKSculpt | KKSC",
+    "shortName": "KKSC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kksculpt-bundle-01",
+        "name": "Classic Sculpt",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "krismo-01",
+    "name": "krismo_figures",
+    "url": "https://t.me/%2Bc/2464777550/859/860",
+    "icon": "❄️",
+    "category": "Authors",
+    "description": "krismo_figures | KRSM",
+    "shortName": "KRSM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "krismo-bundle-01",
+        "name": "Winter Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Winter"
+      }
+    ]
+  },
+  {
+    "id": "kugo-01",
+    "name": "KuGo figures [KUGO]",
+    "url": "https://t.me/%2Bc/2280750674/48/49",
+    "icon": "🥰",
+    "category": "Authors",
+    "description": "KuGo figures | KUGO",
+    "shortName": "KUGO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kugo-bundle-01",
+        "name": "Kawaii Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Kawaii"
+      }
+    ]
+  },
+  {
+    "id": "kumakami-01",
+    "name": "KumakamiFigures Darikuma3D yanahri [KUMK]",
+    "url": "https://t.me/%2Bc/2464777550/829/830",
+    "icon": "🐻",
+    "category": "Authors",
+    "description": "Kumakami & Darikuma | KUMK",
+    "shortName": "KUMK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kumakami-bundle-01",
+        "name": "Bear Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "kurostudio-01",
+    "name": "Kuro Studio",
+    "url": "https://t.me/%2Bc/2280750674/120/121",
+    "icon": "⚫",
+    "category": "Authors",
+    "description": "Kuro Studio | KURO",
+    "shortName": "KURO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kuro-bundle-01",
+        "name": "Dark Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "kurufigure-01",
+    "name": "Kuru Figure",
+    "url": "https://t.me/%2Bc/2280750674/112/113",
+    "icon": "🥜",
+    "category": "Authors",
+    "description": "Kuru Figure | KURU",
+    "shortName": "KURU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kuru-bundle-01",
+        "name": "Nutty Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "kutonsculpts-01",
+    "name": "Kuton Sculpts",
+    "url": "https://t.me/%2B+UJoWRXUC-FgyYmNi",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "Kuton Sculpts | KUTN",
+    "shortName": "KUTN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "kuton-bundle-01",
+        "name": "Samurai Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Samurai"
+      }
+    ]
+  },
+  {
+    "id": "lafiguress-01",
+    "name": "LAFIGURESS",
+    "url": "https://t.me/%2B+eoSZ3IaJqS9kZjdi",
+    "icon": "🌴",
+    "category": "Authors",
+    "description": "LAFIGURESS | LAFG",
+    "shortName": "LAFG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "lafiguress-bundle-01",
+        "name": "Los Angeles Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Pin-up"
+      }
+    ]
+  },
+  {
+    "id": "lamazmorra-01",
+    "name": "LaMazmorra Mazmorra-Studio Mazmorra Customs Gerardo Vazquez",
+    "url": "https://t.me/%2Bc/2499290600/201/202",
+    "icon": "🕳️",
+    "category": "Authors",
+    "description": "Mazmorra Studio | LMZM",
+    "shortName": "LMZM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mazmorra-bundle-01",
+        "name": "Dungeon Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Dungeon Crawler"
+      }
+    ]
+  },
+  {
+    "id": "laniakea-01",
+    "name": "Laniakea tamiegadelha",
+    "url": "https://t.me/%2Bc/2436039193/2509/2510",
+    "icon": "🌌",
+    "category": "Authors",
+    "description": "Laniakea | LANK",
+    "shortName": "LANK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "laniakea-bundle-01",
+        "name": "Cosmic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Space"
+      }
+    ]
+  },
+  {
+    "id": "lazydecay-01",
+    "name": "LazyDecay",
+    "url": "https://t.me/%2Bc/2274038750/20/21",
+    "icon": "🧟‍♀️",
+    "category": "Authors",
+    "description": "LazyDecay | LZDC",
+    "shortName": "LZDC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "lazydecay-bundle-01",
+        "name": "Undead Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "legioncreative-01",
+    "name": "Legion-Creative KitsuneArt Nicolas G.S.",
+    "url": "https://t.me/%2Bc/2343995924/143/144",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "Nicolas G.S. | LGCN",
+    "shortName": "LGCN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "legion-bundle-01",
+        "name": "Kitsune Legion",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Kitsune"
+      }
+    ]
+  },
+  {
+    "id": "lionrealm-01",
+    "name": "LionRealm Studio",
+    "url": "https://t.me/%2Bc/2280750674/114/115",
+    "icon": "🦁",
+    "category": "Authors",
+    "description": "LionRealm Studio | LION",
+    "shortName": "LION",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "lionrealm-bundle-01",
+        "name": "Lion Pride",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Beasts"
+      }
+    ]
+  },
+  {
+    "id": "lordzochi-01",
+    "name": "Lord Zochi",
+    "url": "https://t.me/%2Bc/2280750674/2541/2542",
+    "icon": "👑",
+    "category": "Authors",
+    "description": "Lord Zochi | LRZC",
+    "shortName": "LRZC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "zochi-bundle-01",
+        "name": "Royal Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Royalty"
+      }
+    ]
+  },
+  {
+    "id": "lucazperez-01",
+    "name": "lucaz perez",
+    "url": "https://t.me/%2Bc/2436039193/1322/1323",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "lucaz perez | LCPZ",
+    "shortName": "LCPZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "lucaz-bundle-01",
+        "name": "Star Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "luftmensch-01",
+    "name": "luftmensch studio",
+    "url": "https://t.me/%2B+Xxy5E0HJxJBhZjdi",
+    "icon": "☁️",
+    "category": "Authors",
+    "description": "luftmensch studio | LYFH",
+    "shortName": "LYFH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "luft-bundle-01",
+        "name": "Dreamy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Ethereal"
+      }
+    ]
+  },
+  {
+    "id": "ld3dart-01",
+    "name": "Luis Donaldo Meza Morales LD 3D Art [LD3D]",
+    "url": "https://t.me/%2Bc/2405031173/977/978",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "Luis Donaldo | LD3D",
+    "shortName": "LD3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ld3d-bundle-01",
+        "name": "Aztec Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Aztec"
+      }
+    ]
+  },
+  {
+    "id": "luisroyo-01",
+    "name": "Luis Royo",
+    "url": "https://t.me/%2Bc/2455328834/7408/7409",
+    "icon": "🖤",
+    "category": "Authors",
+    "description": "Luis Royo Official | LR",
+    "shortName": "LR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "royo-bundle-01",
+        "name": "Dark Erotic Fantasy",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "lukas04-01",
+    "name": "lukas04",
+    "url": "https://t.me/%2Bc/2464777550/191/192",
+    "icon": "🎲",
+    "category": "Authors",
+    "description": "lukas04 | LUKS",
+    "shortName": "LUKS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "lukas-bundle-01",
+        "name": "Tabletop Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Tabletop"
+      }
+    ]
+  },
+  {
+    "id": "magpie3d-01",
+    "name": "Magpie 3D",
+    "url": "https://t.me/%2Bc/2455328834/254/255",
+    "icon": "🪶",
+    "category": "Authors",
+    "description": "Magpie 3D | MAGP",
+    "shortName": "MAGP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "magpie-bundle-01",
+        "name": "Bird Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Avian"
+      }
+    ]
+  },
+  {
+    "id": "mangres-01",
+    "name": "mangres",
+    "url": "https://t.me/%2Bc/2343995924/883/884",
+    "icon": "🌶️",
+    "category": "Authors",
+    "description": "mangres | MNGR",
+    "shortName": "MNGR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mangres-bundle-01",
+        "name": "Spicy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "marcoart-01",
+    "name": "Marco Art",
+    "url": "https://t.me/%2Bc/2464777550/420/421",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Marco Art | MRCA",
+    "shortName": "MRCA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "marco-bundle-01",
+        "name": "Art Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "marklambert-01",
+    "name": "mark Lambert",
+    "url": "https://t.me/%2Bc/2405031173/933/934",
+    "icon": "🛠️",
+    "category": "Authors",
+    "description": "mark Lambert | MRLM",
+    "shortName": "MRLM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "markl-bundle-01",
+        "name": "Workshop Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "marlosmasterpieces-01",
+    "name": "Marlo's Masterpieces",
+    "url": "https://t.me/%2Bc/2280750674/3403/3404",
+    "icon": "🏆",
+    "category": "Authors",
+    "description": "Marlo's Masterpieces | MRLO",
+    "shortName": "MRLO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "marlo-bundle-01",
+        "name": "Masterpiece Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Premium"
+      }
+    ]
+  },
+  {
+    "id": "marthinagusta-01",
+    "name": "Marthin Agusta",
+    "url": "https://t.me/%2Bc/2405031173/766/767",
+    "icon": "🌋",
+    "category": "Authors",
+    "description": "Marthin Agusta | MRTH",
+    "shortName": "MRTH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "marthin-bundle-01",
+        "name": "Volcanic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "mayatomr-01",
+    "name": "mayatomr",
+    "url": "https://t.me/%2Bc/2274038750/611/613",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "mayatomr | MAYA",
+    "shortName": "MAYA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "maya-bundle-01",
+        "name": "Sakura Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "mcm3d-01",
+    "name": "mcm3d",
+    "url": "https://t.me/%2Bc/2280750674/638/639",
+    "icon": "🦸‍♀️",
+    "category": "Authors",
+    "description": "mcm3d | MCM3",
+    "shortName": "MCM3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mcm3d-bundle-01",
+        "name": "Heroines Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Superheroines"
+      }
+    ]
+  },
+  {
+    "id": "mellomini-01",
+    "name": "Mello-Mini",
+    "url": "https://t.me/%2Bc/2343995924/1519/1520",
+    "icon": "🧸",
+    "category": "Authors",
+    "description": "Mello-Mini | MELM",
+    "shortName": "MELM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mello-bundle-01",
+        "name": "Mini Chibi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 18,
+        "theme": "Chibi"
+      }
+    ]
+  },
+  {
+    "id": "memostudio-01",
+    "name": "memostudio",
+    "url": "https://t.me/%2Bc/2464777550/915/916",
+    "icon": "🧠",
+    "category": "Authors",
+    "description": "memostudio | MEMO",
+    "shortName": "MEMO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "memo-bundle-01",
+        "name": "Memory Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "messias3d-01",
+    "name": "Messias 3D Figure [MES3]",
+    "url": "https://t.me/%2Bc/2405031173/250/251",
+    "icon": "✝️",
+    "category": "Authors",
+    "description": "Messias 3D | MES3",
+    "shortName": "MES3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "messias-bundle-01",
+        "name": "Biblical Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Religious"
+      }
+    ]
+  },
+  {
+    "id": "michelballares-01",
+    "name": "Michel Ballares Rodriguez",
+    "url": "https://t.me/%2B+uHA1hXDAB9kyZmYy",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Michel Ballares | MIBR",
+    "shortName": "MIBR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "michel-bundle-01",
+        "name": "Artistic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "miltonbarriza-01",
+    "name": "Milton R Barriza",
+    "url": "https://t.me/%2Bc/2499290600/1277/1278",
+    "icon": "🦖",
+    "category": "Authors",
+    "description": "Milton Barriza | MLTN",
+    "shortName": "MLTN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "milton-bundle-01",
+        "name": "Dino Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Prehistoric"
+      }
+    ]
+  },
+  {
+    "id": "mimobarnacles-01",
+    "name": "MimoBarnacles",
+    "url": "https://t.me/%2Bc/2464777550/1318/1319",
+    "icon": "🐚",
+    "category": "Authors",
+    "description": "MimoBarnacles | MIMO",
+    "shortName": "MIMO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mimo-bundle-01",
+        "name": "Sea Creatures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Sea"
+      }
+    ]
+  },
+  {
+    "id": "mintiufigures-01",
+    "name": "MinTiu Figures",
+    "url": "https://t.me/%2Bc/2464777550/106/107",
+    "icon": "🍃",
+    "category": "Authors",
+    "description": "MinTiu Figures | MNTU",
+    "shortName": "MNTU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mintiu-bundle-01",
+        "name": "Mint Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "mkcreative-01",
+    "name": "MKCreative",
+    "url": "https://t.me/%2Bc/2436039193/8675/8676",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "MKCreative | MKCR",
+    "shortName": "MKCR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mk-bundle-01",
+        "name": "Creative Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "mocdancollectibles-01",
+    "name": "MocDan Collectibles",
+    "url": "https://t.me/%2Bc/2280750674/3546/3547",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "MocDan Collectibles | MOCD",
+    "shortName": "MOCD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mocdan-bundle-01",
+        "name": "Ancient Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Ancient"
+      }
+    ]
+  },
+  {
+    "id": "momoji-01",
+    "name": "MOMOJI",
+    "url": "https://t.me/%2B+3KvBZiV11qdhNGQ6",
+    "icon": "🍑",
+    "category": "Authors",
+    "description": "MOMOJI | MOJI",
+    "shortName": "MOJI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "momoji-bundle-01",
+        "name": "Peachy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "monofigurine-01",
+    "name": "monofigurine",
+    "url": "https://t.me/%2Bc/2343995924/62/63",
+    "icon": "⚪",
+    "category": "Authors",
+    "description": "monofigurine | MONO",
+    "shortName": "MONO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mono-bundle-01",
+        "name": "Monochrome Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Minimal"
+      }
+    ]
+  },
+  {
+    "id": "monsterprey-01",
+    "name": "monster prey",
+    "url": "https://t.me/%2Bc/2274038750/951/952",
+    "icon": "🕷️",
+    "category": "Authors",
+    "description": "monster prey | MNPR",
+    "shortName": "MNPR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "monsterprey-bundle-01",
+        "name": "Monster Hunter Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Monsters"
+      }
+    ]
+  },
+  {
+    "id": "monyaggu-01",
+    "name": "monyaggu",
+    "url": "https://t.me/%2Bc/2280750674/5739/5740",
+    "icon": "🐰",
+    "category": "Authors",
+    "description": "monyaggu | MONY",
+    "shortName": "MONY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "monyaggu-bundle-01",
+        "name": "Monyaggu Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cute / Bunny"
+      }
+    ]
+  },
+  {
+    "id": "moonfigures-01",
+    "name": "MoonFigures [MOOF]",
+    "url": "https://t.me/%2Bc/2464777550/919/920",
+    "icon": "🌙",
+    "category": "Authors",
+    "description": "MoonFigures | MOOF",
+    "shortName": "MOOF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "moonf-bundle-01",
+        "name": "Moon Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "mulostudio-01",
+    "name": "mulostudio",
+    "url": "https://t.me/%2Bc/2280750674/3969/3970",
+    "icon": "🦌",
+    "category": "Authors",
+    "description": "mulostudio | MULO",
+    "shortName": "MULO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mulo-bundle-01",
+        "name": "Deer Girls",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Forest Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "munkoin-01",
+    "name": "Munkuin",
+    "url": "https://t.me/%2Bc/2343995924/234/235",
+    "icon": "🐿️",
+    "category": "Authors",
+    "description": "Munkuin | MNKN",
+    "shortName": "MNKN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "munk-bundle-01",
+        "name": "Chipmunk Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Cute Creatures"
+      }
+    ]
+  },
+  {
+    "id": "myminiaturez-01",
+    "name": "MYMINIATUREZ",
+    "url": "https://t.me/%2Bc/2455328834/2177/2178",
+    "icon": "🏰",
+    "category": "Authors",
+    "description": "MYMINIATUREZ | MMZ",
+    "shortName": "MMZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mmz-bundle-01",
+        "name": "Tabletop Miniatures",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 20,
+        "theme": "Tabletop"
+      }
+    ]
+  },
+  {
+    "id": "mysticflare-01",
+    "name": "Mystic_Flare",
+    "url": "https://t.me/%2Bc/2455328834/5211/5212",
+    "icon": "🔥",
+    "category": "Authors",
+    "description": "Mystic_Flare | MFLR",
+    "shortName": "MFLR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mystic-bundle-01",
+        "name": "Fire Magic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "nachocg-01",
+    "name": "NACHOCG",
+    "url": "https://t.me/%2B+-8kq7CTWTzRmYjdi",
+    "icon": "🌮",
+    "category": "Authors",
+    "description": "NachoCG | NACH",
+    "shortName": "NACH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nacho-bundle-01",
+        "name": "Latino Fantasy",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "naughtypeach-01",
+    "name": "NaughtyPeach",
+    "url": "https://t.me/%2Bc/2455328834/1721/1722",
+    "icon": "🍑",
+    "category": "Authors",
+    "description": "NaughtyPeach | NTPC",
+    "shortName": "NTPC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "peach-bundle-01",
+        "name": "Very Naughty Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "navekstudio-01",
+    "name": "Navek Studio",
+    "url": "https://t.me/%2Bc/2274038750/1107/1108",
+    "icon": "🚀",
+    "category": "Authors",
+    "description": "Navek Studio | NVKS",
+    "shortName": "NVKS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "navek-bundle-01",
+        "name": "Sci-Fi Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "neftea-01",
+    "name": "Neftea [NEF]",
+    "url": "https://t.me/%2Bc/2464777550/1512/1513",
+    "icon": "☕",
+    "category": "Authors",
+    "description": "Neftea | NEF",
+    "shortName": "NEF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "neftea-bundle-01",
+        "name": "Cozy Tea Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "nerdfury-01",
+    "name": "nerdfury 3d",
+    "url": "https://t.me/%2Bc/2280750674/1186/1187",
+    "icon": "🤓",
+    "category": "Authors",
+    "description": "nerdfury 3d | NRDF",
+    "shortName": "NRDF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nerd-bundle-01",
+        "name": "Geek Culture Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Pop Culture"
+      }
+    ]
+  },
+  {
+    "id": "neva3dlab-01",
+    "name": "neva3dlabdesign",
+    "url": "https://t.me/%2Bc/2280750674/5358/5359",
+    "icon": "❄️",
+    "category": "Authors",
+    "description": "neva3dlabdesign | NEVA",
+    "shortName": "NEVA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "neva-bundle-01",
+        "name": "Winter Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Winter"
+      }
+    ]
+  },
+  {
+    "id": "newchallengers-01",
+    "name": "New Challengers 3D",
+    "url": "https://t.me/%2Bc/2464777550/4427/4428",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "New Challengers | NWCH",
+    "shortName": "NWCH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "newch-bundle-01",
+        "name": "Fighters Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fighting"
+      }
+    ]
+  },
+  {
+    "id": "nicex-01",
+    "name": "Nice X Collectibles",
+    "url": "https://t.me/%2Bc/2464777550/2032/2033",
+    "icon": "🔥",
+    "category": "Authors",
+    "description": "Nice X Collectibles | NICX",
+    "shortName": "NICX",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nicex-bundle-01",
+        "name": "Hot Collectibles",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "niel3d-01",
+    "name": "Niel 3D Studio",
+    "url": "https://t.me/%2Bc/2280750674/5182/5183",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "Niel 3D Studio | NIEL",
+    "shortName": "NIEL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "niel-bundle-01",
+        "name": "Niel Monthly",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "nikofigurines-01",
+    "name": "NikoFigurines",
+    "url": "https://t.me/%2Bc/2464777550/1102/1103",
+    "icon": "🦄",
+    "category": "Authors",
+    "description": "NikoFigurines | NIKO",
+    "shortName": "NIKO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "niko-bundle-01",
+        "name": "Magical Girls",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Magic"
+      }
+    ]
+  },
+  {
+    "id": "novadesign3d-01",
+    "name": "Novadesign3D [NOV3]",
+    "url": "https://t.me/%2Bc/2280750674/2759/2760",
+    "icon": "🌑",
+    "category": "Authors",
+    "description": "Novadesign3D | NOV3",
+    "shortName": "NOV3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nova-bundle-01",
+        "name": "Nova Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "nuskulart-01",
+    "name": "NuskulArt",
+    "url": "https://t.me/%2Bc/2464777550/531/532",
+    "icon": "💀",
+    "category": "Authors",
+    "description": "NuskulArt | NSKL",
+    "shortName": "NSKL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nuskul-bundle-01",
+        "name": "Skull Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Dark"
+      }
+    ]
+  },
+  {
+    "id": "nyxtfall-01",
+    "name": "Nyxt_Fall",
+    "url": "https://t.me/%2Bc/2464777550/2462/2463",
+    "icon": "🌑",
+    "category": "Authors",
+    "description": "Nyxt_Fall | NYXT",
+    "shortName": "NYXT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "nyxt-bundle-01",
+        "name": "Night Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Dark Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "orakio-01",
+    "name": "Orakio‘s Studio",
+    "url": "https://t.me/%2Bc/2405031173/1265/1266",
+    "icon": "🎮",
+    "category": "Authors",
+    "description": "Orakio‘s Studio | ORKS",
+    "shortName": "ORKS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "orakio-bundle-01",
+        "name": "Retro Games Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Retro Gaming"
+      }
+    ]
+  },
+  {
+    "id": "otakuforge-01",
+    "name": "OtakuForgeFigure",
+    "url": "https://t.me/%2Bc/2280750674/5254/5255",
+    "icon": "⚒️",
+    "category": "Authors",
+    "description": "OtakuForgeFigure | OTAK",
+    "shortName": "OTAK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "otaku-bundle-01",
+        "name": "Anime Forge",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "oxo3o-01",
+    "name": "OXO3O",
+    "url": "https://t.me/%2B+N27hfS6f4XM2OWNi",
+    "icon": "🤗",
+    "category": "Authors",
+    "description": "OXO3O | OX3D",
+    "shortName": "OX3D",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "oxo-bundle-01",
+        "name": "Hugs & Cuddles",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Cute"
+      }
+    ]
+  },
+  {
+    "id": "panarello-01",
+    "name": "PANARELLO STL",
+    "url": "https://t.me/%2Bc/2464777550/175/176",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "PANARELLO STL | PANR",
+    "shortName": "PANR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "panarello-bundle-01",
+        "name": "Classic Busts",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 8,
+        "theme": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "paulolopes-01",
+    "name": "Paulo Lopes",
+    "url": "https://t.me/%2Bc/2436039193/12876/12877",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Paulo Lopes | PLPS",
+    "shortName": "PLPS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "paulo-bundle-01",
+        "name": "Portuguese Art",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "peachfigure-01",
+    "name": "PEACHFIGURE ri-gpes45",
+    "url": "https://t.me/%2B+y6894iSj3TA3ODRi",
+    "icon": "🍑",
+    "category": "Authors",
+    "description": "PEACHFIGURE | PEAC",
+    "shortName": "PEAC",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "peachfig-bundle-01",
+        "name": "Peachy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "penu3d-01",
+    "name": "Penu3d",
+    "url": "https://t.me/%2Bc/2274038750/179/180",
+    "icon": "🖊️",
+    "category": "Authors",
+    "description": "Penu3d | PENU",
+    "shortName": "PENU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "penu-bundle-01",
+        "name": "Pen Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "pikitty-01",
+    "name": "Pikitty Pikky Prints",
+    "url": "https://t.me/%2Bc/2343995924/451/452",
+    "icon": "🐱",
+    "category": "Authors",
+    "description": "Pikitty | PIKT",
+    "shortName": "PIKT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "pikitty-bundle-01",
+        "name": "Cat Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Neko"
+      }
+    ]
+  },
+  {
+    "id": "pinkstudio-01",
+    "name": "PinkStudio",
+    "url": "https://t.me/%2B+cs5DebVDMMNjMzU6",
+    "icon": "💗",
+    "category": "Authors",
+    "description": "PinkStudio | PINK",
+    "shortName": "PINK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "pink-bundle-01",
+        "name": "Pink Dreams",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 14,
+        "theme": "Cute / NSFW"
+      }
+    ]
+  },
+  {
+    "id": "pixyland3d-01",
+    "name": "Pixyland3d",
+    "url": "https://t.me/%2Bc/2280750674/1202/1203",
+    "icon": "🧚",
+    "category": "Authors",
+    "description": "Pixyland3d | PIXY",
+    "shortName": "PIXY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "pixy-bundle-01",
+        "name": "Fairy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fairies"
+      }
+    ]
+  },
+  {
+    "id": "polinashaman-01",
+    "name": "PolinaShaman",
+    "url": "https://t.me/%2Bc/2464777550/649/650",
+    "icon": "🔮",
+    "category": "Authors",
+    "description": "PolinaShaman | PLSH",
+    "shortName": "PLSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "polina-bundle-01",
+        "name": "Shaman Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mystic"
+      }
+    ]
+  },
+  {
+    "id": "polymind-01",
+    "name": "PolyMind Studio",
+    "url": "https://t.me/%2B+-p0HRPHLcIY2NmNi",
+    "icon": "🧠",
+    "category": "Authors",
+    "description": "PolyMind Studio | POLM",
+    "shortName": "POLM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "polymind-bundle-01",
+        "name": "Mind Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "preystl-01",
+    "name": "preystl",
+    "url": "https://t.me/%2B+wR4fHHHxMiMzNDg6",
+    "icon": "🦈",
+    "category": "Authors",
+    "description": "preystl | PREY",
+    "shortName": "PREY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "prey-bundle-01",
+        "name": "Predator Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Horror"
+      }
+    ]
+  },
+  {
+    "id": "printmania-01",
+    "name": "print mania studios",
+    "url": "https://t.me/%2Bc/2274038750/1020/1021",
+    "icon": "🖨️",
+    "category": "Authors",
+    "description": "print mania studios | PRTM",
+    "shortName": "PRTM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "printm-bundle-01",
+        "name": "Mania Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 15,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "propsbeyond-01",
+    "name": "Props&Beyond",
+    "url": "https://t.me/%2B+q5r_dxWnBX5iZTky",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "Props&Beyond | PROP",
+    "shortName": "PROP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "props-bundle-01",
+        "name": "Weapons & Props",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 20,
+        "theme": "Props"
+      }
+    ]
+  },
+  {
+    "id": "rafaelgomez-01",
+    "name": "Rafael Gomez",
+    "url": "https://t.me/%2Bc/2436039193/13301/13302",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Rafael Gomez | RFGZ",
+    "shortName": "RFGZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rafael-bundle-01",
+        "name": "Gomez Art",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "ravisampath-01",
+    "name": "Ravi Sampath Collectibles",
+    "url": "https://t.me/%2Bc/2343995924/398/399",
+    "icon": "🪔",
+    "category": "Authors",
+    "description": "Ravi Sampath | RVSP",
+    "shortName": "RVSP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ravi-bundle-01",
+        "name": "Indian Mythology",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Indian"
+      }
+    ]
+  },
+  {
+    "id": "rbcm-01",
+    "name": "RBCmodels",
+    "url": "https://t.me/%2Bc/2499290600/1288/1289",
+    "icon": "🏎️",
+    "category": "Authors",
+    "description": "RBCmodels | RBCM",
+    "shortName": "RBCM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rbc-bundle-01",
+        "name": "Vehicles & Mecha",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mecha"
+      }
+    ]
+  },
+  {
+    "id": "reativecollector-01",
+    "name": "REATIVE COLLECTOR",
+    "url": "https://t.me/%2Bc/2280750674/8645/8646",
+    "icon": "🦸‍♂️",
+    "category": "Authors",
+    "description": "REATIVE COLLECTOR | REAT",
+    "shortName": "REAT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "reat-bundle-01",
+        "name": "Heroes Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Superheroes"
+      }
+    ]
+  },
+  {
+    "id": "redbushido-01",
+    "name": "RedBushido Red Bushido",
+    "url": "https://t.me/%2Bc/2499290600/430/431",
+    "icon": "🏯",
+    "category": "Authors",
+    "description": "Red Bushido | RDBS",
+    "shortName": "RDBS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "redb-bundle-01",
+        "name": "Samurai Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Samurai"
+      }
+    ]
+  },
+  {
+    "id": "remyjf-01",
+    "name": "RemyJF",
+    "url": "https://t.me/%2Bc/2274038750/450/451",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "RemyJF | REMY",
+    "shortName": "REMY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "remy-bundle-01",
+        "name": "Foxy Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Kitsune"
+      }
+    ]
+  },
+  {
+    "id": "revi-01",
+    "name": "Revi",
+    "url": "https://t.me/%2Bc/2274038750/961/962",
+    "icon": "🎸",
+    "category": "Authors",
+    "description": "Revi | REVI",
+    "shortName": "REVI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "revi-bundle-01",
+        "name": "Rock Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Music"
+      }
+    ]
+  },
+  {
+    "id": "rinart97-01",
+    "name": "RinArt97",
+    "url": "https://t.me/%2Bc/2436039193/3713/3714",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "RinArt97 | RINA",
+    "shortName": "RINA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rin-bundle-01",
+        "name": "Anime Girls",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "ritualdesign-01",
+    "name": "Ritual Design",
+    "url": "https://t.me/%2B+FvHrjp3B0hFiMjQy",
+    "icon": "🕯️",
+    "category": "Authors",
+    "description": "Ritual Design | RITD",
+    "shortName": "RITD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ritual-bundle-01",
+        "name": "Occult Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Occult"
+      }
+    ]
+  },
+  {
+    "id": "romfx-01",
+    "name": "romfx",
+    "url": "https://t.me/%2Bc/2436039193/3660/3661",
+    "icon": "💫",
+    "category": "Authors",
+    "description": "romfx | ROMF",
+    "shortName": "ROMF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "romfx-bundle-01",
+        "name": "FX Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "roninarts-01",
+    "name": "Ronin Arts Workshop",
+    "url": "https://t.me/%2B+21mLY4-gl2s3ZTQy",
+    "icon": "🏮",
+    "category": "Authors",
+    "description": "Ronin Arts | RONN",
+    "shortName": "RONN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ronin-bundle-01",
+        "name": "Ronin Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Samurai"
+      }
+    ]
+  },
+  {
+    "id": "roosterknight-01",
+    "name": "RoosterKnight3D",
+    "url": "https://t.me/%2Bc/2343995924/89/90",
+    "icon": "🐓",
+    "category": "Authors",
+    "description": "RoosterKnight3D | RSTK",
+    "shortName": "RSTK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rooster-bundle-01",
+        "name": "Knight Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Medieval"
+      }
+    ]
+  },
+  {
+    "id": "rubim-01",
+    "name": "RUBIM",
+    "url": "https://t.me/%2B+pngDpKt06VphMDY6",
+    "icon": "💎",
+    "category": "Authors",
+    "description": "RUBIM | RUBI",
+    "shortName": "RUBI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rubim-bundle-01",
+        "name": "Ruby Gems",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "rushzilla-01",
+    "name": "Rushzilla",
+    "url": "https://t.me/%2B+4yTbbBjj8DIzYWQ6",
+    "icon": "🦖",
+    "category": "Authors",
+    "description": "Rushzilla | RUSH",
+    "shortName": "RUSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "rush-bundle-01",
+        "name": "Kaiju Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Kaiju"
+      }
+    ]
+  },
+  {
+    "id": "ryodan-01",
+    "name": "ryodan studio [RYS]",
+    "url": "https://t.me/%2Bc/2436039193/1330/1331",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "ryodan studio | RYS",
+    "shortName": "RYS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "ryodan-bundle-01",
+        "name": "Tokyo Revengers Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Delinquents"
+      }
+    ]
+  },
+  {
+    "id": "sakosigue-01",
+    "name": "SakosigueArt",
+    "url": "https://t.me/%2Bc/2280750674/166/167",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "SakosigueArt | SAKO",
+    "shortName": "SAKO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sako-bundle-01",
+        "name": "Art Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Art"
+      }
+    ]
+  },
+  {
+    "id": "saltsulpt-01",
+    "name": "SaltSculpt [SALT]",
+    "url": "https://t.me/%2Bc/2280750674/4703/4704",
+    "icon": "🧂",
+    "category": "Authors",
+    "description": "SaltSculpt | SALT",
+    "shortName": "SALT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "salt-bundle-01",
+        "name": "Salty Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "sambolotnikow-01",
+    "name": "sambolotnikow",
+    "url": "https://t.me/%2Bc/2343995924/1636/1637",
+    "icon": "❄️",
+    "category": "Authors",
+    "description": "sambolotnikow | SMBL",
+    "shortName": "SMBL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sambo-bundle-01",
+        "name": "Russian Winter",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Winter"
+      }
+    ]
+  },
+  {
+    "id": "samiho-01",
+    "name": "Samiho Studios",
+    "url": "https://t.me/%2Bc/2436039193/93/94",
+    "icon": "🌸",
+    "category": "Authors",
+    "description": "Samiho Studios | SAMH",
+    "shortName": "SAMH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "samiho-bundle-01",
+        "name": "Japanese Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "saturnstudio-01",
+    "name": "Saturn_Studio",
+    "url": "https://t.me/%2Bc/2343995924/1145/1146",
+    "icon": "🪐",
+    "category": "Authors",
+    "description": "Saturn_Studio | STRN",
+    "shortName": "STRN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "saturn-bundle-01",
+        "name": "Space Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "serikcollection-01",
+    "name": "Serik_Collection [SERK]",
+    "url": "https://t.me/%2Bc/2464777550/232/233",
+    "icon": "🦁",
+    "category": "Authors",
+    "description": "Serik_Collection | SERK",
+    "shortName": "SERK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "serik-bundle-01",
+        "name": "Lion Collection",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Beasts"
+      }
+    ]
+  },
+  {
+    "id": "servants-01",
+    "name": "servants",
+    "url": "https://t.me/%2Bc/2464777550/1238/1239",
+    "icon": "🛎️",
+    "category": "Authors",
+    "description": "servants | SRVN",
+    "shortName": "SRVN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "servants-bundle-01",
+        "name": "Maid Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "Maids"
+      }
+    ]
+  },
+  {
+    "id": "shadaloo-01",
+    "name": "SHADALOO STUDIOS",
+    "url": "https://t.me/%2B+JF-dYtU8B-k3YWEy",
+    "icon": "👹",
+    "category": "Authors",
+    "description": "SHADALOO STUDIOS | SHLS",
+    "shortName": "SHLS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "shadaloo-bundle-01",
+        "name": "Street Fighter Style",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Fighting"
+      }
+    ]
+  },
+  {
+    "id": "shammalamma-01",
+    "name": "ShammaLammaMUMU",
+    "url": "https://t.me/%2Bc/2343995924/3216/3217",
+    "icon": "🐄",
+    "category": "Authors",
+    "description": "ShammaLammaMUMU | SHLM",
+    "shortName": "SHLM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "mumu-bundle-01",
+        "name": "Cow Girls Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 12,
+        "theme": "Cow"
+      }
+    ]
+  },
+  {
+    "id": "shapesworkshop-01",
+    "name": "shapes workshop",
+    "url": "https://t.me/%2Bc/2280750674/5926/5927",
+    "icon": "🔷",
+    "category": "Authors",
+    "description": "shapes workshop | SHAP",
+    "shortName": "SHAP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "shapes-bundle-01",
+        "name": "Geometric Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Abstract"
+      }
+    ]
+  },
+  {
+    "id": "shinobu-01",
+    "name": "Shinobu Sculpts",
+    "url": "https://t.me/%2Bc/2280750674/1436/1437",
+    "icon": "🦋",
+    "category": "Authors",
+    "description": "Shinobu Sculpts | SHNB",
+    "shortName": "SHNB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "shinobu-bundle-01",
+        "name": "Demon Slayer Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Anime"
+      }
+    ]
+  },
+  {
+    "id": "shytyk-01",
+    "name": "Shytyk Anastasia",
+    "url": "https://t.me/%2Bc/2274038750/124/125",
+    "icon": "🌹",
+    "category": "Authors",
+    "description": "Shytyk Anastasia | SHTY",
+    "shortName": "SHTY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "shytyk-bundle-01",
+        "name": "Rose Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "sidnaique-01",
+    "name": "SIDNAIQUE",
+    "url": "https://t.me/%2Bc/2436039193/10217/10218",
+    "icon": "🌙",
+    "category": "Authors",
+    "description": "SIDNAIQUE | SIDN",
+    "shortName": "SIDN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sidnaique-bundle-01",
+        "name": "Moon Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mystic"
+      }
+    ]
+  },
+  {
+    "id": "sin3dstudio-01",
+    "name": "Sin3Dstudio",
+    "url": "https://t.me/%2Bc/2280750674/118/119",
+    "icon": "😈",
+    "category": "Authors",
+    "description": "Sin3Dstudio | SIN3",
+    "shortName": "SIN3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sin3d-bundle-01",
+        "name": "Sinful Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 13,
+        "theme": "NSFW"
+      }
+    ]
+  },
+  {
+    "id": "siryllart-01",
+    "name": "Siryll Art",
+    "url": "https://t.me/%2Bc/2455328834/298/299",
+    "icon": "🧜‍♀️",
+    "category": "Authors",
+    "description": "Siryll Art | SIRY",
+    "shortName": "SIRY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "siryll-bundle-01",
+        "name": "Mermaid Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Mermaids"
+      }
+    ]
+  },
+  {
+    "id": "soarezpop-01",
+    "name": "Soarez Pop Totem",
+    "url": "https://t.me/%2B+zDnmXKvB5SQyZDAy",
+    "icon": "🗿",
+    "category": "Authors",
+    "description": "Soarez Pop Totem | SOAZ",
+    "shortName": "SOAZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "soarez-bundle-01",
+        "name": "Totem Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Tribal"
+      }
+    ]
+  },
+  {
+    "id": "sparkyface-01",
+    "name": "SparkyFace",
+    "url": "https://t.me/%2Bc/2464777550/572/573",
+    "icon": "⚡️",
+    "category": "Authors",
+    "description": "SparkyFace | SPRK",
+    "shortName": "SPRK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sparky-bundle-01",
+        "name": "Electric Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "sraoill-01",
+    "name": "sraoill",
+    "url": "https://t.me/%2Bc/2499290600/1572/1573",
+    "icon": "🌿",
+    "category": "Authors",
+    "description": "sraoill | SRAO",
+    "shortName": "SRAO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "sraoill-bundle-01",
+        "name": "Nature Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 11,
+        "theme": "Nature"
+      }
+    ]
+  },
+  {
+    "id": "stalynquito-01",
+    "name": "Stalyn quito",
+    "url": "https://t.me/%2Bc/2280750674/1602/1603",
+    "icon": "🌋",
+    "category": "Authors",
+    "description": "Stalyn quito | STLN",
+    "shortName": "STLN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "stalyn-bundle-01",
+        "name": "Volcanic Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "stargrazer-01",
+    "name": "stargrazer",
+    "url": "https://t.me/%2Bc/2274038750/1296/1297",
+    "icon": "🌠",
+    "category": "Authors",
+    "description": "stargrazer | STRG",
+    "shortName": "STRG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "stargrazer-bundle-01",
+        "name": "Stargazing Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 10,
+        "theme": "Space"
+      }
+    ]
+  },
+  {
+    "id": "statixstl-01",
+    "name": "STATIX STL Workshop",
+    "url": "https://t.me/%2Bc/2464777550/586/587",
+    "icon": "🗽",
+    "category": "Authors",
+    "description": "STATIX STL Workshop | STTX",
+    "shortName": "STTX",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [
+      {
+        "id": "statix-bundle-01",
+        "name": "Statue Pack",
+        "year": 2025,
+        "month": "November",
+        "modelsCount": 9,
+        "theme": "Statues"
+      }
+    ]
+  },
+   {
+    "id": "stivens-01",
+    "name": "Stivens trujillo Sanchez",
+    "url": "https://t.me/%2Bc/2436039193/13475/13476",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Stivens trujillo Sanchez | STVS",
+    "shortName": "STVS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "stvs-bundle-01", "name": "Stivens Monthly", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Fantasy" }]
+  },
+  {
+    "id": "stlproject-01",
+    "name": "stlproject",
+    "url": "https://t.me/%2B+vsfjPzytALNmOWRi",
+    "icon": "🗂️",
+    "category": "Authors",
+    "description": "stlproject | STLP",
+    "shortName": "STLP",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "stlp-bundle-01", "name": "STL Project Pack", "year": 2025, "month": "November", "modelsCount": 15, "theme": "Various" }]
+  },
+  {
+    "id": "stoardel-01",
+    "name": "stoardel team",
+    "url": "https://t.me/%2Bc/2436039193/3886/3887",
+    "icon": "🛡️",
+    "category": "Authors",
+    "description": "stoardel team | STDL",
+    "shortName": "STDL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "stoardel-bundle-01", "name": "Stoardel Team Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Fantasy" }]
+  },
+  {
+    "id": "studiocanime-01",
+    "name": "studio chibi anime [STCA]",
+    "url": "https://t.me/%2Bc/2280750674/1955/1956",
+    "icon": "🍥",
+    "category": "Authors",
+    "description": "Studio Chibi Anime | STCA",
+    "shortName": "STCA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "stca-bundle-01", "name": "Chibi Anime Pack", "year": 2025, "month": "November", "modelsCount": 18, "theme": "Chibi Anime" }]
+  },
+  {
+    "id": "sunray-01",
+    "name": "Sunray Collectibles",
+    "url": "https://t.me/%2Bc/2464777550/2132/2133",
+    "icon": "☀️",
+    "category": "Authors",
+    "description": "Sunray Collectibles | SNRY",
+    "shortName": "SNRY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "sunray-bundle-01", "name": "Sunny Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Pin-up" }]
+  },
+  {
+    "id": "sylviana-01",
+    "name": "Sylviana Sculpt",
+    "url": "https://t.me/%2Bc/2274038750/1222/1223",
+    "icon": "🌿",
+    "category": "Authors",
+    "description": "Sylviana Sculpt | SYLV",
+    "shortName": "SYLV",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "sylviana-bundle-01", "name": "Forest Elves", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Elves" }]
+  },
+  {
+    "id": "tsaber-01",
+    "name": "T-Saber",
+    "url": "https://t.me/%2Bc/2436039193/7225/7226",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "T-Saber | TSAB",
+    "shortName": "TSAB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tsaber-bundle-01", "name": "Lightsaber Pack", "year": 2025, "month": "November", "modelsCount": 9, "theme": "Star Wars" }]
+  },
+  {
+    "id": "tanuki-01",
+    "name": "TanukiFigures",
+    "url": "https://t.me/%2Bc/2280750674/2807/2808",
+    "icon": "🦝",
+    "category": "Authors",
+    "description": "TanukiFigures | TNKF",
+    "shortName": "TNKF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tanuki-bundle-01", "name": "Tanuki Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Tanuki" }]
+  },
+  {
+    "id": "tarmas3d-01",
+    "name": "Tarmas3d",
+    "url": "https://t.me/%2Bc/2464777550/1870/1871",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "Tarmas3d | TRMS",
+    "shortName": "TRMS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tarmas-bundle-01", "name": "Tarmas Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Fantasy" }]
+  },
+  {
+    "id": "tcrandom-01",
+    "name": "TC Random Collectibles",
+    "url": "https://t.me/%2Bc/2280750674/1858/1859",
+    "icon": "🎲",
+    "category": "Authors",
+    "description": "TC Random | TCRN",
+    "shortName": "TCRN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tcrn-bundle-01", "name": "Random Pack", "year": 2025, "month": "November", "modelsCount": 14, "theme": "Various" }]
+  },
+  {
+    "id": "tenshifigures-01",
+    "name": "Tenshi Figures",
+    "url": "https://t.me/%2Bc/2280750674/116/117",
+    "icon": "😇",
+    "category": "Authors",
+    "description": "Tenshi Figures | TNSH",
+    "shortName": "TNSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tenshi-bundle-01", "name": "Angel Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Angels" }]
+  },
+  {
+    "id": "texelion-01",
+    "name": "Texelion Studio_Sol_Union",
+    "url": "https://t.me/%2Bc/2455328834/778/779",
+    "icon": "🌞",
+    "category": "Authors",
+    "description": "Texelion Studio | TEXS",
+    "shortName": "TEXS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "texelion-bundle-01", "name": "Solar Union", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Sci-Fi" }]
+  },
+  {
+    "id": "tfigure-01",
+    "name": "TFigure",
+    "url": "https://t.me/%2Bc/2464777550/223/224",
+    "icon": "🧚‍♀️",
+    "category": "Authors",
+    "description": "TFigure | TFIG",
+    "shortName": "TFIG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tfig-bundle-01", "name": "Tiny Figures", "year": 2025, "month": "November", "modelsCount": 15, "theme": "Miniatures" }]
+  },
+  {
+    "id": "skazone-01",
+    "name": "the SKA zone",
+    "url": "https://t.me/%2Bc/2343995924/861/862",
+    "icon": "🎸",
+    "category": "Authors",
+    "description": "SKA zone | SKAZ",
+    "shortName": "SKAZ",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "ska-bundle-01", "name": "SKA Punk Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Music" }]
+  },
+  {
+    "id": "thiagopereira-01",
+    "name": "Thiago Pereira Duarte",
+    "url": "https://t.me/%2Bc/2343995924/43/44",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "Thiago Pereira | THPD",
+    "shortName": "THPD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "thiago-bundle-01", "name": "Brazilian Fantasy", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Fantasy" }]
+  },
+  {
+    "id": "tomodashi-01",
+    "name": "TomodashiStudio",
+    "url": "https://t.me/%2Bc/2464777550/1316/1317",
+    "icon": "👭",
+    "category": "Authors",
+    "description": "TomodashiStudio | TMDS",
+    "shortName": "TMDS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "tomo-bundle-01", "name": "Friends Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Anime" }]
+  },
+  {
+    "id": "toonstudios-01",
+    "name": "Toon studios",
+    "url": "https://t.me/%2Bc/2280750674/841/842",
+    "icon": "🖍️",
+    "category": "Authors",
+    "description": "Toon studios | TOON",
+    "shortName": "TOON",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "toon-bundle-01", "name": "Cartoon Pack", "year": 2025, "month": "November", "modelsCount": 14, "theme": "Toon" }]
+  },
+  {
+    "id": "trickortreat-01",
+    "name": "Trick or Treat 3d",
+    "url": "https://t.me/%2Bc/2455328834/5739/5740",
+    "icon": "🎃",
+    "category": "Authors",
+    "description": "Trick or Treat 3d | TRIT",
+    "shortName": "TRIT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "trick-bundle-01", "name": "Halloween Pack", "year": 2025, "month": "November", "modelsCount": 15, "theme": "Halloween" }]
+  },
+  {
+    "id": "ukiyo-01",
+    "name": "Ukiyo Figures",
+    "url": "https://t.me/%2Bc/2280750674/1387/1388",
+    "icon": "🌊",
+    "category": "Authors",
+    "description": "Ukiyo Figures | UKIY",
+    "shortName": "UKIY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "ukiyo-bundle-01", "name": "Ukiyo-e Style", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Japanese Art" }]
+  },
+  {
+    "id": "ukupalua-01",
+    "name": "Ukupalua",
+    "url": "https://t.me/%2Bc/2280750674/4/5",
+    "icon": "🌺",
+    "category": "Authors",
+    "description": "Ukupalua | UKPL",
+    "shortName": "UKPL",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "ukupalua-bundle-01", "name": "Hawaiian Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Tropical" }]
+  },
+  {
+    "id": "urraupa-01",
+    "name": "URRA UPA [UPA]",
+    "url": "https://t.me/%2Bc/2343995924/1247/1248",
+    "icon": "🎉",
+    "category": "Authors",
+    "description": "URRA UPA | UPA",
+    "shortName": "UPA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "urra-bundle-01", "name": "Party Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Fun" }]
+  },
+  {
+    "id": "veinvex-01",
+    "name": "veinvex",
+    "url": "https://t.me/%2Bc/2274038750/330/331",
+    "icon": "🩸",
+    "category": "Authors",
+    "description": "veinvex | VEIN",
+    "shortName": "VEIN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "vein-bundle-01", "name": "Vampire Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Vampire" }]
+  },
+  {
+    "id": "vengeancestudios-01",
+    "name": "VENGEANCESTUDIOS",
+    "url": "https://t.me/%2B+2OK_6nWd8MJlNDMy",
+    "icon": "⚖️",
+    "category": "Authors",
+    "description": "VENGEANCESTUDIOS | VVS",
+    "shortName": "VVS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "vengeance-bundle-01", "name": "Revenge Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Dark Fantasy" }]
+  },
+  {
+    "id": "viniciusborges-01",
+    "name": "ViniciusBorges Vinicius Borges",
+    "url": "https://t.me/%2Bc/2343995924/68/69",
+    "icon": "🌴",
+    "category": "Authors",
+    "description": "Vinicius Borges | VNCB",
+    "shortName": "VNCB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "vinicius-bundle-01", "name": "Brazilian Beauties", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Pin-up" }]
+  },
+  {
+    "id": "voidfigures-01",
+    "name": "Void Figures",
+    "url": "https://t.me/%2Bc/2280750674/8420/8421",
+    "icon": "🕳️",
+    "category": "Authors",
+    "description": "Void Figures | VOID",
+    "shortName": "VOID",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "void-bundle-01", "name": "Void Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Abyssal" }]
+  },
+  {
+    "id": "vxlabs-01",
+    "name": "VX-Labs",
+    "url": "https://t.me/%2B+9bIvjhbxj9wyZDFi",
+    "icon": "🧪",
+    "category": "Authors",
+    "description": "VX-Labs | VXLS",
+    "shortName": "VXLS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "vxlabs-bundle-01", "name": "Experimental Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Sci-Fi" }]
+  },
+  {
+    "id": "waifucraft-01",
+    "name": "Waifu Craft",
+    "url": "https://t.me/%2Bc/2274038750/113/114",
+    "icon": "💍",
+    "category": "Authors",
+    "description": "Waifu Craft | WAIF",
+    "shortName": "WAIF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "waifu-bundle-01", "name": "Best Waifu Pack", "year": 2025, "month": "November", "modelsCount": 14, "theme": "Waifu" }]
+  },
+  {
+    "id": "warbustmaven-01",
+    "name": "War Bust Maven",
+    "url": "https://t.me/%2Bc/2464777550/731/732",
+    "icon": "🪖",
+    "category": "Authors",
+    "description": "War Bust Maven | WRBM",
+    "shortName": "WRBM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "warbust-bundle-01", "name": "Military Busts", "year": 2025, "month": "November", "modelsCount": 8, "theme": "Military" }]
+  },
+  {
+    "id": "wesleypontes-01",
+    "name": "wes_pontes Wesley Pontes",
+    "url": "https://t.me/%2Bc/2343995924/3/4",
+    "icon": "🌟",
+    "category": "Authors",
+    "description": "Wesley Pontes | WSPN",
+    "shortName": "WSPN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "wesley-bundle-01", "name": "Pontes Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Fantasy" }]
+  },
+  {
+    "id": "wesleyypds-01",
+    "name": "wesleyypds",
+    "url": "https://t.me/%2Bc/2464777550/598/599",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "wesleyypds | WSLY",
+    "shortName": "WSLY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "wsly-bundle-01", "name": "Wesley Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Fantasy" }]
+  },
+  {
+    "id": "wotuiguduo-01",
+    "name": "wotuiguduo Miyab",
+    "url": "https://t.me/%2Bc/2280750674/2640/2641",
+    "icon": "🐇",
+    "category": "Authors",
+    "description": "wotuiguduo | WOTU",
+    "shortName": "WOTU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "wotui-bundle-01", "name": "Bunny Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Bunny" }]
+  },
+  {
+    "id": "wayneangel-01",
+    "name": "WWA -WAYNE WINGED ANGEL",
+    "url": "https://t.me/%2Bc/2436039193/5927/5928",
+    "icon": "👼",
+    "category": "Authors",
+    "description": "Wayne Winged Angel | WWA",
+    "shortName": "WWA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "wwa-bundle-01", "name": "Angelic Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Angels" }]
+  },
+  {
+    "id": "wyrmworks-01",
+    "name": "wyrmworkssculpting",
+    "url": "https://t.me/%2Bc/2280750674/7882/7883",
+    "icon": "🐲",
+    "category": "Authors",
+    "description": "Wyrmworks | WYRM",
+    "shortName": "WYRM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "wyrm-bundle-01", "name": "Dragon Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Dragons" }]
+  },
+  {
+    "id": "xnix-01",
+    "name": "X-NIX [XNIX]",
+    "url": "https://t.me/%2Bc/2280750674/6470/6471",
+    "icon": "❌",
+    "category": "Authors",
+    "description": "X-NIX | XNIX",
+    "shortName": "XNIX",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "xnix-bundle-01", "name": "X-NIX Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "NSFW" }]
+  },
+  {
+    "id": "xhunart-01",
+    "name": "XhunArt",
+    "url": "https://t.me/%2Bc/2499290600/2/3",
+    "icon": "🎨",
+    "category": "Authors",
+    "description": "XhunArt | XHUN",
+    "shortName": "XHUN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "xhun-bundle-01", "name": "Art Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Art" }]
+  },
+  {
+    "id": "yacinebrinis-01",
+    "name": "Yacine-BRINIS",
+    "url": "https://t.me/%2Bc/2499290600/409/410",
+    "icon": "🌍",
+    "category": "Authors",
+    "description": "Yacine Brinis | YACN",
+    "shortName": "YACN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yacine-bundle-01", "name": "African Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Mythology" }]
+  },
+  {
+    "id": "yeloh3d-01",
+    "name": "yeloh.3dprint",
+    "url": "https://t.me/%2Bc/2280750674/4774/4775",
+    "icon": "🟡",
+    "category": "Authors",
+    "description": "yeloh.3dprint | YELO",
+    "shortName": "YELO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yelo-bundle-01", "name": "Yellow Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Fantasy" }]
+  },
+  {
+    "id": "yksafterdark-01",
+    "name": "YKSAfterDark",
+    "url": "https://t.me/%2Bc/2343995924/1592/1593",
+    "icon": "🌙",
+    "category": "Authors",
+    "description": "YKS After Dark | YKSA",
+    "shortName": "YKSA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yksad-bundle-01", "name": "After Dark Pack", "year": 2025, "month": "November", "modelsCount": 14, "theme": "NSFW" }]
+  },
+  {
+    "id": "yongblood-01",
+    "name": "Yongblood Sclupture [YONG]",
+    "url": "https://t.me/%2Bc/2280750674/1434/1435",
+    "icon": "🩸",
+    "category": "Authors",
+    "description": "Yongblood | YONG",
+    "shortName": "YONG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yong-bundle-01", "name": "Blood Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Dark" }]
+  },
+  {
+    "id": "yorustudio-01",
+    "name": "yoru_studio",
+    "url": "https://t.me/%2Bc/2464777550/527/528",
+    "icon": "🌃",
+    "category": "Authors",
+    "description": "Yoru Studio | YORU",
+    "shortName": "YORU",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yoru-bundle-01", "name": "Night Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Dark" }]
+  },
+  {
+    "id": "yoshstudios-01",
+    "name": "Yosh Studios",
+    "url": "https://t.me/%2B+vs2ZX7dIWNoxYmYy",
+    "icon": "🎎",
+    "category": "Authors",
+    "description": "Yosh Studios | YOSH",
+    "shortName": "YOSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yosh-bundle-01", "name": "Anime Pack", "year": 2025, "month": "November", "modelsCount": 13, "theme": "Anime" }]
+  },
+  {
+    "id": "youngboo-01",
+    "name": "YoungbooFigures",
+    "url": "https://t.me/%2Bc/2274038750/1448/1449",
+    "icon": "👻",
+    "category": "Authors",
+    "description": "YoungbooFigures | YNGB",
+    "shortName": "YNGB",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "youngboo-bundle-01", "name": "Spooky Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Horror" }]
+  },
+  {
+    "id": "yukistudio-01",
+    "name": "YukiStudio",
+    "url": "https://t.me/%2Bc/2499290600/361/362",
+    "icon": "❄️",
+    "category": "Authors",
+    "description": "YukiStudio | YUKS",
+    "shortName": "YUKS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "yuki-bundle-01", "name": "Snow Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Winter" }]
+  },
+  {
+    "id": "zama3d-01",
+    "name": "Zama3DFigures",
+    "url": "https://t.me/%2Bc/2464777550/2267/2268",
+    "icon": "🌵",
+    "category": "Authors",
+    "description": "Zama3DFigures | ZAMA",
+    "shortName": "ZAMA",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "zama-bundle-01", "name": "Desert Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Desert" }]
+  },
+  {
+    "id": "zamarrenho-01",
+    "name": "zamarrenho",
+    "url": "https://t.me/%2Bc/2464777550/2300/2301",
+    "icon": "🦎",
+    "category": "Authors",
+    "description": "zamarrenho | ZMRN",
+    "shortName": "ZMRN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "zama2-bundle-01", "name": "Lizard Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Reptilian" }]
+  },
+  {
+    "id": "zekki-01",
+    "name": "Zekki Collectibles",
+    "url": "https://t.me/%2Bc/2499290600/1349/1350",
+    "icon": "🦊",
+    "category": "Authors",
+    "description": "Zekki Collectibles | ZEKK",
+    "shortName": "ZEKK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "zekki-bundle-01", "name": "Fox Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Kitsune" }]
+  },
+  {
+    "id": "zenith-01",
+    "name": "Zenith Studios [ZEN]",
+    "url": "https://t.me/%2Bc/2274038750/974/975",
+    "icon": "🧘",
+    "category": "Authors",
+    "description": "Zenith Studios | ZEN",
+    "shortName": "ZEN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "zenith-bundle-01", "name": "Zen Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Calm" }]
+  },
+  {
+    "id": "zy0n7-01",
+    "name": "Zy0n7",
+    "url": "https://t.me/%2Bc/2436039193/7127/7128",
+    "icon": "🌌",
+    "category": "Authors",
+    "description": "Zy0n7 | ZY0N",
+    "shortName": "ZY0N",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "zy0n-bundle-01", "name": "Cyber Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Cyberpunk" }]
+  },
+ {
+    "id": "3dmind-01",
+    "name": "3D Mind (cardoso3d)",
+    "url": "https://t.me/%2Bc/1707173129/423",
+    "icon": "🧠",
+    "category": "Authors",
+    "description": "3D Mind / cardoso3d | 3DMND",
+    "shortName": "3DMND",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "3dmind-bundle-01", "name": "Mind Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Fantasy" }]
+  },
+  {
+    "id": "angeleluna-01",
+    "name": "angeleluna (EMILIANOLUNA3D)",
+    "url": "https://t.me/%2Bc/2464777550/151/152",
+    "icon": "🌙",
+    "category": "Authors",
+    "description": "angeleluna | ANLN",
+    "shortName": "ANLN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "angel-bundle-01", "name": "Angel Luna Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Fantasy" }]
+  },
+  {
+    "id": "anyonenSFW-01",
+    "name": "Anyone NSFW",
+    "url": "https://t.me/%2Bc/2455328834/933/934",
+    "icon": "🔥",
+    "category": "Authors",
+    "description": "Anyone NSFW | ANYN",
+    "shortName": "ANYN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "anyone-bundle-01", "name": "Very Spicy Pack", "year": 2025, "month": "November", "modelsCount": 15, "theme": "NSFW" }]
+  },
+  {
+    "id": "animegirls-01",
+    "name": "AnimeGirls",
+    "url": "https://t.me/%2Bc/2455328834/2815/2816",
+    "icon": "💮",
+    "category": "Authors",
+    "description": "AnimeGirls | ANIG",
+    "shortName": "ANIG",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "anig-bundle-01", "name": "Anime Girls Pack", "year": 2025, "month": "November", "modelsCount": 20, "theme": "Anime" }]
+  },
+  {
+    "id": "alestarmar-01",
+    "name": "alestarmar",
+    "url": "https://t.me/%2Bc/2455328834/1044/1045",
+    "icon": "⭐",
+    "category": "Authors",
+    "description": "alestarmar | ALST",
+    "shortName": "ALST",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "alest-bundle-01", "name": "Star Pack", "year": 2025, "month": "November", "modelsCount": 11, "theme": "Fantasy" }]
+  },
+  {
+    "id": "atvdigital2-01",
+    "name": "atvdigitalsculptures (ATV Digital Sculptures)",
+    "url": "https://t.me/%2Bc/1935599250/375",
+    "icon": "🚀",
+    "category": "Authors",
+    "description": "ATV Digital Sculptures | ATVD",
+    "shortName": "ATVD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "atv2-bundle-01", "name": "Sci-Fi Sculptures", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Sci-Fi" }]
+  },
+  {
+    "id": "artifex2-01",
+    "name": "artifex3d cinemayCGart",
+    "url": "https://t.me/%2Bc/1648222413/716",
+    "icon": "🎬",
+    "category": "Authors",
+    "description": "artifex3d & cinemayCGart | CCGT",
+    "shortName": "CCGT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "artifex2-bundle-01", "name": "Cinematic Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Movies" }]
+  },
+  {
+    "id": "acrosstherealms-01",
+    "name": "Across the Realms",
+    "url": "https://t.me/%2Bc/1926192220/268",
+    "icon": "🌌",
+    "category": "Authors",
+    "description": "Across the Realms | ACRR",
+    "shortName": "ACRR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "across-bundle-01", "name": "Realms Pack", "year": 2025, "month": "November", "modelsCount": 18, "theme": "Tabletop" }]
+  },
+  {
+    "id": "animalden-01",
+    "name": "Animal Den Miniatures",
+    "url": "https://t.me/%2Bc/1922143059/741",
+    "icon": "🦁",
+    "category": "Authors",
+    "description": "Animal Den | ADEN",
+    "shortName": "ADEN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "animal-bundle-01", "name": "Beasts Pack", "year": 2025, "month": "November", "modelsCount": 20, "theme": "Creatures" }]
+  },
+  {
+    "id": "bestiarum-01",
+    "name": "Bestiarum Miniatures",
+    "url": "https://t.me/%2Bc/1692105844/3530",
+    "icon": "🐲",
+    "category": "Authors",
+    "description": "Bestiarum Miniatures | BSTM",
+    "shortName": "BSTM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "bestiarum-bundle-01", "name": "Bestiary Pack", "year": 2025, "month": "November", "modelsCount": 25, "theme": "Monsters" }]
+  },
+  {
+    "id": "badwolf-01",
+    "name": "BadWolf Collectibles",
+    "url": "https://t.me/%2Bc/2323117338/3686/3687",
+    "icon": "🐺",
+    "category": "Authors",
+    "description": "BadWolf Collectibles | BDWF",
+    "shortName": "BDWF",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "badwolf-bundle-01", "name": "Wolf Pack", "year": 2025, "month": "November", "modelsCount": 12, "theme": "Fantasy" }]
+  },
+  {
+    "id": "blackthorn-01",
+    "name": "blackthornminiatures",
+    "url": "https://t.me/%2Bc/2323117338/2773/2774",
+    "icon": "🌑",
+    "category": "Authors",
+    "description": "Blackthorn Miniatures | BLTH",
+    "shortName": "BLTH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "blackthorn-bundle-01", "name": "Dark Elves", "year": 2025, "month": "November", "modelsCount": 18, "theme": "Dark Fantasy" }]
+  },
+  {
+    "id": "boldmini-01",
+    "name": "bold miniatures",
+    "url": "https://t.me/%2Bc/2323117338/4358/4359",
+    "icon": "🦸‍♂️",
+    "category": "Authors",
+    "description": "Bold Miniatures | BOLD",
+    "shortName": "BOLD",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "bold-bundle-01", "name": "Heroes Pack", "year": 2025, "month": "November", "modelsCount": 15, "theme": "Superheroes" }]
+  },
+  {
+    "id": "bom39-01",
+    "name": "bom39",
+    "url": "https://t.me/%2Bc/2455328834/976/977",
+    "icon": "💣",
+    "category": "Authors",
+    "description": "bom39 | BOM3",
+    "shortName": "BOM3",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "bom39-bundle-01", "name": "Explosive Pack", "year": 2025, "month": "November", "modelsCount": 10, "theme": "Military" }]
+  },
+  {
+    "id": "c27collectibles-01",
+    "name": "C27-Collectibles",
+    "url": "https://t.me/%2Bc/1635145843/1387",
+    "icon": "🎲",
+    "category": "Authors",
+    "description": "C27 Collectibles | C27C",
+    "shortName": "C27C",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "c27-bundle-01", "name": "Tabletop Pack", "year": 2025, "month": "November", "modelsCount": 22, "theme": "Tabletop" }]
+  },
+  {
+    "id": "christmas-01",
+    "name": "christmas",
+    "url": "https://t.me/%2Bc/1935048625/307",
+    "icon": "🎄",
+    "category": "Authors",
+    "description": "Christmas Special | XMAS",
+    "shortName": "XMAS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "xmas-bundle-01", "name": "Christmas Pack", "year": 2025, "month": "November", "modelsCount": 18, "theme": "Holiday" }]
+  },
+  {
+    "id": "creaturearmory-01",
+    "name": "creaturearmory",
+    "url": "https://t.me/%2Bc/2436039193/8377/8378",
+    "icon": "🛡️",
+    "category": "Authors",
+    "description": "Creature Armory | CRAR",
+    "shortName": "CRAR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "crar-bundle-01", "name": "Weapons & Armor", "year": 2025, "month": "November", "modelsCount": 30, "theme": "Gear" }]
+  },
+  {
+    "id": "chuyafactory-01",
+    "name": "Chuya Factory",
+    "url": "https://t.me/%2Bc/1658863084/1262",
+    "icon": "🐼",
+    "category": "Authors",
+    "description": "Chuya Factory | CHUY",
+    "shortName": "CHUY",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "chuya-bundle-01", "name": "Cute Factory", "year": 2025, "month": "November", "modelsCount": 16, "theme": "Chibi" }]
+  },
+  {
+    "id": "criptastudios-01",
+    "name": "Cripta Studios",
+    "url": "https://t.me/%2Bc/1863588348/173",
+    "icon": "💀",
+    "category": "Authors",
+    "description": "Cripta Studios | CRPT",
+    "shortName": "CRPT",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "cripta-bundle-01", "name": "Undead Pack", "year": 2025, "month": "November", "modelsCount": 20, "theme": "Undead" }]
+  },
+  {
+    "id": "creaturecaster-01",
+    "name": "Creature Caster",
+    "url": "https://t.me/%2Bc/2291322352/111",
+    "icon": "👹",
+    "category": "Authors",
+    "description": "Creature Caster | CRCS",
+    "shortName": "CRCS",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "crcst-bundle-01", "name": "Big Demons", "year": 2025, "month": "November", "modelsCount": 8, "theme": "Large Monsters" }]
+  },
+  {
+    "id": "dmstash-01",
+    "name": "DM-Stash",
+    "url": "https://t.me/%2Bc/1885294606/1424",
+    "icon": "🗡️",
+    "category": "Authors",
+    "description": "DM-Stash | DMST",
+    "shortName": "DMST",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "dmstash-bundle-01", "name": "Adventures Pack", "year": 2025, "month": "November", "modelsCount": 30, "theme": "D&D" }]
+  },
+  {
+    "id": "fleshofgods-01",
+    "name": "Flesh of Gods",
+    "url": "https://t.me/%2Bc/1716934733/2137",
+    "icon": "😈",
+    "category": "Authors",
+    "description": "Flesh of Gods | FLSH",
+    "shortName": "FLSH",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "flesh-bundle-01", "name": "Pantheon Pack", "year": 2025, "month": "November", "modelsCount": 14, "theme": "Mythology" }]
+  },
+  {
+    "id": "greatgrimoire-01",
+    "name": "Great Grimoire",
+    "url": "https://t.me/%2Bc/1756140281/1046",
+    "icon": "📖",
+    "category": "Authors",
+    "description": "Great Grimoire | GRIM",
+    "shortName": "GRIM",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "grimoire-bundle-01", "name": "Spellbook Pack", "year": 2025, "month": "November", "modelsCount": 25, "theme": "Magic" }]
+  },
+  {
+    "id": "heroesinfinite-01",
+    "name": "Heroes Infinite",
+    "url": "https://t.me/%2Bc/1627131965/2017",
+    "icon": "🦸",
+    "category": "Authors",
+    "description": "Heroes Infinite | HRIN",
+    "shortName": "HRIN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "heroesinf-bundle-01", "name": "Infinite Heroes", "year": 2025, "month": "November", "modelsCount": 22, "theme": "Superheroes" }]
+  },
+  {
+    "id": "nomnom-01",
+    "name": "NomNom Figures",
+    "url": "https://t.me/%2Bnomstlhehe/3787",
+    "icon": "🍔",
+    "category": "Authors",
+    "description": "NomNom Figures | NOMN",
+    "shortName": "NOMN",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "nomnom-bundle-01", "name": "Yummy Pack", "year": 2025, "month": "November", "modelsCount": 16, "theme": "Food Girls" }]
+  },
+  {
+    "id": "dakkadakka-01",
+    "name": "DAKKADAKKASTORE",
+    "url": "https://t.me/%2B+k8quROGQI_QxOWMy",
+    "icon": "🔫",
+    "category": "Authors",
+    "description": "DAKKADAKKA Store | DAKK",
+    "shortName": "DAKK",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "dakka-bundle-01", "name": "Ork Style", "year": 2025, "month": "November", "modelsCount": 30, "theme": "40k" }]
+  },
+  {
+    "id": "minigames-01",
+    "name": "MinigamesMiniatures",
+    "url": "https://t.me/%2B+tUbxkjWx3Yo5OTMy",
+    "icon": "🎲",
+    "category": "Authors",
+    "description": "Minigames Miniatures | MINI",
+    "shortName": "MINI",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "minigames-bundle-01", "name": "Wargaming Pack", "year": 2025, "month": "November", "modelsCount": 40, "theme": "Tabletop" }]
+  },
+  {
+    "id": "stationforge-01",
+    "name": "StationForge",
+    "url": "https://t.me/%2B+kEZ3UTNZ93o1NDI6",
+    "icon": "🤖",
+    "category": "Authors",
+    "description": "StationForge | STFO",
+    "shortName": "STFO",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "station-bundle-01", "name": "Grimdark Pack", "year": 2025, "month": "November", "modelsCount": 35, "theme": "Sci-Fi" }]
+  },
+  {
+    "id": "onepagerules-01",
+    "name": "ONE PAGE RULES",
+    "url": "https://t.me/%2B+KG_qd-D0Oq40NDk6",
+    "icon": "⚔️",
+    "category": "Authors",
+    "description": "One Page Rules | OPGR",
+    "shortName": "OPGR",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "opr-bundle-01", "name": "OPR Army Pack", "year": 2025, "month": "November", "modelsCount": 50, "theme": "Wargame" }]
+  },
+    {
+    "id": "general-buta-buta",
+    "name": "General Buta",
+    "url": "https://t.me/%2B+8K-KiTTRrLtkZTFi",
+    "icon": "🐷",
+    "category": "authors",
+    "description": "General Buta NSFW",
+    "shortName": "BUTA",
+    "subscription": "HSP",
+    "bundles": [ 22 ],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "mowmaw-mowm",
+    "name": "mowmaw",
+    "url": "https://t.me/%2Bc/2455328834/4/7174",
+    "icon": "😽",
+    "category": "authors",
+    "description": "mowmaw NSFW post",
+    "shortName": "MOWM",
+    "subscription": "HSP",
+    "bundles": [ 30 ],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "HWG-MythReal",
+    "name": "HardWitch-Games MythReal Games",
+    "url": "https://t.me/%2B+4CBE5mEAWA0zZTQy",
+    "icon": "HDWG",
+    "category": "сollect",
+    "description": "",
+    "shortName": "HDWG",
+    "bundles": [],
+    "pinned": false,
+    "favorite": false
+  },
+  {
+    "id": "new-1762642282052",
+    "name": "Torrida Minis",
+    "url": "https://t.me/%2B+H7R9Ezwnle8xYjM6",
+    "icon": "TMIN",
+    "category": "сollect",
+    "description": "",
+    "shortName": "TMIN",
+    "bundles": [],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "madsmins-tiny",
+    "name": "MADSMINIS",
+    "url": "https://t.me/%2B+589vNPNyEXtlN2Uy",
+    "icon": "tools",
+    "category": "Miniatures",
+    "description": "MADSMINIS STL by @hehestl",
+    "shortName": "MM",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "bulkamancer-mage",
+    "name": "Bulkamancer",
+    "url": "https://t.me/%2B+lHERhrEvfYQxZDIy",
+    "icon": "wizard",
+    "category": "Fantasy Mage",
+    "description": "Bulkamancer STL by @hehestl",
+    "shortName": "BM",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "my3dforge-custom",
+    "name": "My3DPrintForge",
+    "url": "https://t.me/%2B+BZNfgAGfOnplY2My",
+    "icon": "hammer",
+    "category": "Custom Prints",
+    "description": "My3DPrintForge STL by @hehestl",
+    "shortName": "M3",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "fab365-design",
+    "name": "Fab365",
+    "url": "https://t.me/%2B+uFjs8i6-iFcwNzQy",
+    "icon": "3d_printer",
+    "category": "Functional",
+    "description": "Fab365 STL by @hehestl",
+    "shortName": "F3",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "sillytoys-fun",
+    "name": "SillyToys",
+    "url": "https://t.me/%2B+4B_2HT8vrkBkYTgy",
+    "icon": "clown_face",
+    "category": "Fun Toys",
+    "description": "SillyToys STL by @hehestl",
+    "shortName": "SYTO",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "vermilion-mini",
+    "name": "Vermilion Miniatures",
+    "url": "https://t.me/%2B+8NrK6MkET3ZjOTY6",
+    "icon": "dagger",
+    "category": "Tabletop",
+    "description": "Vermilion Miniatures STL by @hehestl",
+    "shortName": "VM",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "sculptooner-cartoon",
+    "name": "SCULPTOONER",
+    "url": "https://t.me/%2B+jqUkjN08mcFkZDZi",
+    "icon": "sculpt",
+    "category": "Cartoon STL",
+    "description": "SCULPTOONER STL by @hehestl",
+    "shortName": "STN",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "sanix-art",
+    "name": "SANIX 3D",
+    "url": "https://t.me/%2B+-JEFRSsn3bswODcy",
+    "icon": "paintbrush",
+    "category": "3D Art",
+    "description": "SANIX 3D STL by @hehestl",
+    "shortName": "SX",
+    "subscription": "hehestl",
+    "bundles": [2],
+    "pinned": false,
+    "favorite": false
+  },
+    {
+    "id": "officer-rhu-orhu",
+    "name": "officer rhu",
+    "url": "https://t.me/%2B+DSA272Sa4TMxNjMy",
+    "icon": "👮‍♀️",
+    "category": "authors",
+    "description": "Officer Rhu models",
+    "shortName": "ORHU",
+    "subscription": "HSP",
+    "bundles": [ 23 ],
+    "pinned": false,
+    "favorite": false
+  },
+  {
+    "id": "wargameexclusive-01",
+    "name": "Wargame Exclusive",
+    "url": "https://t.me/%2B+lHejWk7KiK8xODE6",
+    "icon": "🛡️",
+    "category": "Authors",
+    "description": "Wargame Exclusive | WARE",
+    "shortName": "WARE",
+    "subscription": "HSP",
+    "pinned": false,
+    "favorite": false,
+    "bundles": [{ "id": "ware-bundle-01", "name": "Grimdark Sisters", "year": 2025, "month": "November", "modelsCount": 18, "theme": "40k Alternative" }]
+  }
+]
