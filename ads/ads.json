@@ -1,0 +1,66 @@
+{
+  "mobile": [
+    {
+      "id": "m1",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/dev-chat.png",
+      "link": "https://t.me/%2B+BFMY8BJ8HqU1ZDVi",
+      "alt": "dev.chat"
+    },
+    {
+      "id": "m2",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/wiki.png",
+      "link": "https://wiki.hehestl.com/en/home",
+      "alt": "Wiki"
+    },
+    {
+      "id": "m3",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/hehe.png",
+      "link": "https://t.me/%2B+YGVagXnfcagxYzQy",
+      "alt": "mecha"
+    },
+    {
+      "id": "m4",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/dev.png",
+      "link": "https://news.hehestl.com/Mw-5P3Xq9WD",
+      "alt": "telet"
+    },
+        {
+      "id": "m5",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/pcm-1080%D1%85250.png",
+      "link": "https://band.link/ikPnO",
+      "alt": "artimia"
+    },
+    {
+      "id": "m6",
+      "image": "https://raw.githubusercontent.com/churchehe/hehel-data/7f934722967fa0eaf54268d775cf3d04d1882ba8/ads/heheprise10.png",
+      "link": "#",
+      "alt": "heheprise10"
+    }
+  ],
+  "desktop": [
+    {
+      "id": "d1",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/hehe.png",
+      "link": "https://t.me/%2B+YGVagXnfcagxYzQy",
+      "alt": "mecha"
+    },
+    {
+      "id": "d2",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/dev.png",
+      "link": "https://news.hehestl.com/Mw-5P3Xq9WD",
+      "alt": "telet"
+    },
+     {
+      "id": "d3",
+      "image": "https://s3.twcstorage.ru/6185f5ed-7ed4623f-0a53-4ac7-bd51-a3b15988ae88/hehel.hehestl.com/ads/arit-pc.png",
+      "link": "https://band.link/ikPnO",
+      "alt": "artimia"
+    },
+    {
+      "id": "d44",
+      "image": "https://raw.githubusercontent.com/churchehe/hehel-data/7f934722967fa0eaf54268d775cf3d04d1882ba8/ads/heheprise10.png",
+      "link": "#",
+      "alt": "heheprise10"
+    }
+  ]
+}
